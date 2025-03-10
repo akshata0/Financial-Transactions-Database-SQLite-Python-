@@ -1,0 +1,1001 @@
+Saving_ID,Client_ID,Expense_ID,Saving_Type,Payment_Method,Saving_Date,Amount_Saved,Interest_Rate
+1,4,665,Crypto,Bank Transfer,2023-07-21,15339.85,10.94
+2,4,454,Gold Bonds,Credit Card,2021-04-14,10583.39,9.55
+3,7,837,Medical Insurance,Credit Card,2020-11-19,51173.71,9.61
+4,7,510,Vacation,Investment Account,2022-12-27,68770.94,10.07
+5,9,591,Term Insurance,Investment Account,2023-04-26,40251.95,
+6,6,91,Term Insurance,Bank Transfer,2023-12-06,36095.11,4.35
+7,10,498,Medical Insurance,Credit Card,2021-12-06,11559.6,9.89
+8,4,831,SIP,Investment Account,2023-09-28,93477.82,4.65
+9,7,510,Vacation,Credit Card,2022-02-23,56853.69,11.11
+10,9,774,Emergency Fund,Bank Transfer,2024-07-04,55306.73,7.2
+11,1,524,Gold Bonds,Credit Card,2024-07-09,49837.36,6.17
+12,10,589,Gold Bonds,Bank Transfer,2021-08-02,3319.52,
+13,7,837,Gold Bonds,Investment Account,2020-03-23,2274.09,3.33
+14,1,132,SIP,Credit Card,2021-10-16,49772.17,
+15,10,644,Medical Insurance,UPI,2020-03-27,40556.04,5.84
+16,2,107,Gold Bonds,UPI,2024-12-27,69874.26,2.42
+17,10,589,Vacation,Investment Account,2022-09-23,99707.85,11.66
+18,2,45,Stock,Investment Account,2021-12-06,62017.45,3.0
+19,4,665,Medical Insurance,UPI,2022-07-22,92305.18,6.75
+20,5,1080,Term Insurance,Credit Card,2024-02-08,37739.39,4.24
+21,7,218,Term Insurance,UPI,2020-11-21,74973.44,2.64
+22,10,1035,Stock,UPI,2023-08-04,12190.51,3.0
+23,10,589,Stock,Credit Card,2023-01-07,22452.05,
+24,6,538,SIP,Bank Transfer,2021-11-17,35491.32,
+25,5,509,Emergency Fund,Investment Account,2021-07-28,59315.37,
+26,2,222,Crypto,UPI,2024-03-17,77806.25,4.99
+27,10,564,Stock,Credit Card,2023-01-13,4350.42,2.64
+28,10,131,Emergency Fund,Credit Card,2020-12-03,34981.63,2.76
+29,2,45,SIP,Credit Card,2024-10-24,30787.4,9.94
+30,1,293,Crypto,UPI,2022-10-20,37207.46,10.32
+31,7,218,Medical Insurance,UPI,2022-11-03,2617.65,10.19
+32,1,293,SIP,Bank Transfer,2023-07-24,69181.17,2.78
+33,6,91,Vacation,Investment Account,2022-09-19,9459.85,10.23
+34,6,91,Gold Bonds,UPI,2024-10-29,88867.62,5.78
+35,3,674,Stock,Credit Card,2021-01-20,18653.27,3.37
+36,5,1080,Term Insurance,Credit Card,2024-04-04,8417.76,9.38
+37,6,339,Gold Bonds,Credit Card,2024-04-02,24910.72,7.16
+38,7,510,Term Insurance,Bank Transfer,2021-03-13,75701.21,7.65
+39,7,837,Emergency Fund,UPI,2024-05-23,56920.52,5.77
+40,1,293,Vacation,Investment Account,2024-04-07,84778.21,
+41,7,409,Vacation,UPI,2024-04-27,9678.54,11.0
+42,6,584,Stock,UPI,2023-09-28,16791.19,
+43,8,957,Stock,Investment Account,2022-10-18,32836.67,9.71
+44,6,587,Stock,Bank Transfer,2022-03-15,7446.81,7.42
+45,6,584,Vacation,Credit Card,2022-08-23,94957.53,7.82
+46,7,1072,Crypto,Investment Account,2023-12-21,14176.35,5.38
+47,5,668,Vacation,Credit Card,2023-09-07,70228.01,6.72
+48,8,957,SIP,Bank Transfer,2022-06-17,5893.43,11.19
+49,1,416,Emergency Fund,UPI,2024-06-02,29819.0,7.84
+50,2,1077,Vacation,Bank Transfer,2021-11-26,87302.53,4.51
+51,4,666,Vacation,Bank Transfer,2020-07-03,41168.31,4.07
+52,5,782,Gold Bonds,Credit Card,2023-08-30,62069.14,9.7
+53,9,361,Stock,Investment Account,2023-05-16,54868.35,11.61
+54,6,91,Medical Insurance,Investment Account,2024-04-25,24117.47,
+55,5,1080,Stock,Investment Account,2023-02-27,53748.78,5.41
+56,1,293,Crypto,Credit Card,2022-11-22,89430.1,
+57,6,88,Crypto,Investment Account,2022-06-05,90913.4,9.49
+58,1,62,Vacation,Bank Transfer,2021-02-16,24950.04,2.7
+59,4,665,Vacation,Credit Card,2024-01-08,80394.68,
+60,1,416,Vacation,Credit Card,2020-09-18,59340.72,11.66
+61,5,509,SIP,Credit Card,2024-01-14,62167.3,2.78
+62,7,973,Vacation,Investment Account,2025-01-25,8042.78,11.28
+63,10,908,Crypto,Credit Card,2024-08-10,89288.95,11.92
+64,5,603,Gold Bonds,Credit Card,2020-07-25,19037.55,2.2
+65,4,342,Vacation,Bank Transfer,2022-06-01,49594.3,8.0
+66,5,509,Crypto,Investment Account,2023-09-29,26775.22,
+67,2,347,Gold Bonds,Bank Transfer,2022-07-14,78125.02,
+68,8,957,Crypto,Bank Transfer,2021-05-10,60899.42,5.99
+69,9,482,Emergency Fund,UPI,2022-07-20,13107.19,11.53
+70,1,843,Term Insurance,UPI,2020-07-02,18912.59,
+71,3,934,Term Insurance,UPI,2021-07-01,69051.72,9.6
+72,3,674,SIP,Credit Card,2022-05-31,39086.34,4.33
+73,4,342,Medical Insurance,Investment Account,2020-06-13,69647.11,11.83
+74,4,138,Vacation,Investment Account,2025-01-30,85777.83,11.08
+75,4,454,Stock,UPI,2022-07-20,9726.37,
+76,9,920,Gold Bonds,UPI,2022-11-13,63602.0,
+77,9,920,Emergency Fund,Bank Transfer,2021-04-14,25150.22,
+78,10,498,Emergency Fund,Investment Account,2022-08-29,62397.51,3.62
+79,1,177,Medical Insurance,Bank Transfer,2020-04-05,4665.48,6.21
+80,5,509,Medical Insurance,Credit Card,2024-11-16,57933.14,2.43
+81,5,463,Emergency Fund,Investment Account,2020-11-11,4690.8,
+82,6,714,Vacation,Investment Account,2020-09-30,64702.68,5.94
+83,2,479,Gold Bonds,Bank Transfer,2021-05-25,12864.83,6.71
+84,1,228,SIP,Bank Transfer,2023-01-18,12971.53,
+85,9,220,SIP,Credit Card,2020-11-13,93950.78,11.69
+86,6,141,Term Insurance,UPI,2024-01-05,73698.69,
+87,2,107,Term Insurance,Credit Card,2024-06-28,65352.66,10.16
+88,8,476,Stock,Investment Account,2023-10-01,94045.91,6.17
+89,7,973,Emergency Fund,Credit Card,2021-09-06,38154.63,3.93
+90,8,955,Term Insurance,Credit Card,2023-12-22,88595.81,4.25
+91,5,603,Crypto,Bank Transfer,2023-10-22,53446.74,5.07
+92,9,215,Crypto,UPI,2024-10-21,53730.87,11.57
+93,9,361,SIP,Credit Card,2024-07-28,46478.82,
+94,5,931,Gold Bonds,Investment Account,2025-01-26,51674.97,
+95,5,668,Gold Bonds,UPI,2020-08-27,48209.61,5.6
+96,5,668,Crypto,Credit Card,2020-03-20,22914.38,4.43
+97,5,715,Gold Bonds,Bank Transfer,2022-06-07,47828.78,4.19
+98,4,665,Emergency Fund,Credit Card,2024-12-02,31607.16,7.81
+99,1,524,Term Insurance,Investment Account,2022-11-03,71313.77,2.46
+100,8,957,Medical Insurance,Bank Transfer,2024-03-27,89035.62,5.5
+101,1,132,Vacation,Investment Account,2024-01-09,83097.85,3.83
+102,6,88,Gold Bonds,Investment Account,2021-01-11,67168.76,6.44
+103,2,1077,Stock,UPI,2024-09-25,1612.4,6.15
+104,5,782,Term Insurance,Bank Transfer,2023-01-17,33143.55,
+105,9,921,Crypto,Bank Transfer,2023-05-22,3039.45,9.82
+106,7,510,Term Insurance,Investment Account,2023-09-19,27500.31,5.8
+107,2,222,Medical Insurance,Credit Card,2023-05-30,92000.17,
+108,5,689,Term Insurance,Investment Account,2021-06-15,32523.8,
+109,4,1001,SIP,Investment Account,2025-01-04,3691.15,4.36
+110,10,369,Term Insurance,Credit Card,2024-07-12,12667.94,5.43
+111,5,509,Gold Bonds,UPI,2021-01-21,95744.63,2.36
+112,1,416,Crypto,Bank Transfer,2020-09-06,53485.25,10.82
+113,10,131,Stock,UPI,2024-08-05,44120.93,2.39
+114,4,666,Medical Insurance,Credit Card,2020-05-18,68415.15,
+115,4,752,Medical Insurance,Bank Transfer,2021-01-11,73959.35,10.55
+116,7,973,Medical Insurance,UPI,2022-12-22,53017.02,7.6
+117,3,531,Vacation,Bank Transfer,2021-04-13,62653.72,2.3
+118,4,819,Vacation,UPI,2021-03-29,46106.89,6.52
+119,5,603,Vacation,Credit Card,2021-02-08,48904.84,3.47
+120,9,921,Term Insurance,Credit Card,2023-08-30,53254.96,11.18
+121,7,837,Term Insurance,UPI,2024-02-25,9963.27,
+122,5,509,Emergency Fund,Credit Card,2024-09-23,98854.94,
+123,9,921,Vacation,UPI,2023-04-15,68764.79,5.71
+124,7,409,Vacation,UPI,2021-06-22,69578.13,5.72
+125,7,332,Crypto,UPI,2024-02-13,3601.8,9.39
+126,8,475,Crypto,Bank Transfer,2020-10-12,30109.47,5.28
+127,8,955,SIP,UPI,2022-07-27,94339.74,11.81
+128,7,960,Term Insurance,UPI,2021-05-23,46948.72,9.29
+129,10,1035,Gold Bonds,UPI,2023-04-15,86698.83,11.23
+130,1,62,Emergency Fund,UPI,2022-03-16,93973.71,6.41
+131,5,1045,Emergency Fund,Credit Card,2021-12-11,56438.1,10.93
+132,6,538,Term Insurance,Bank Transfer,2024-06-17,90707.17,10.89
+133,10,1035,SIP,Investment Account,2024-01-11,59968.6,6.19
+134,2,222,Emergency Fund,Bank Transfer,2024-08-31,91871.33,11.59
+135,2,107,Vacation,Credit Card,2021-04-30,3836.32,9.87
+136,9,817,SIP,Investment Account,2020-09-23,95316.88,9.99
+137,10,564,Emergency Fund,Credit Card,2024-02-28,38615.56,6.87
+138,1,950,SIP,UPI,2024-03-29,12389.78,9.76
+139,5,782,Stock,UPI,2020-03-16,86283.13,9.24
+140,5,520,Crypto,Credit Card,2020-05-27,87420.88,4.07
+141,8,958,Emergency Fund,Credit Card,2023-10-04,78257.85,11.98
+142,10,564,Medical Insurance,Bank Transfer,2023-11-10,21690.16,
+143,8,1097,Crypto,UPI,2022-10-20,82862.36,3.32
+144,8,476,Vacation,Credit Card,2022-03-20,44794.6,6.89
+145,9,921,Stock,Investment Account,2023-04-15,2534.32,7.32
+146,1,228,Emergency Fund,Credit Card,2022-03-14,42150.49,
+147,9,591,SIP,UPI,2024-09-11,19128.43,9.67
+148,10,498,Emergency Fund,Bank Transfer,2023-08-05,47205.72,9.77
+149,10,908,Vacation,Credit Card,2022-04-15,27473.56,5.33
+150,3,773,Emergency Fund,Bank Transfer,2024-12-01,98801.63,9.15
+151,6,141,Term Insurance,UPI,2022-11-14,36543.72,7.05
+152,1,843,Emergency Fund,Investment Account,2024-09-14,41884.95,
+153,4,454,Emergency Fund,Bank Transfer,2023-09-26,66859.04,4.2
+154,5,782,Emergency Fund,Credit Card,2024-03-16,76580.0,7.63
+155,7,409,SIP,Credit Card,2024-04-09,92474.4,2.43
+156,5,781,Term Insurance,Credit Card,2021-09-23,70281.7,6.07
+157,9,313,Vacation,Bank Transfer,2023-01-18,62139.82,9.15
+158,9,302,Term Insurance,Bank Transfer,2022-09-04,2578.42,5.59
+159,5,782,Medical Insurance,Bank Transfer,2023-11-22,56005.68,
+160,4,342,SIP,UPI,2023-02-24,45390.11,7.97
+161,6,300,Term Insurance,Investment Account,2023-05-01,82060.5,5.0
+162,1,177,Emergency Fund,Bank Transfer,2024-08-19,90787.0,
+163,10,319,Vacation,UPI,2023-01-02,42263.06,8.21
+164,10,131,SIP,UPI,2023-12-07,63856.56,
+165,2,862,SIP,UPI,2022-01-17,54638.63,8.2
+166,4,665,SIP,Investment Account,2024-02-15,83352.26,
+167,6,584,Emergency Fund,Bank Transfer,2021-08-19,73507.17,8.79
+168,1,132,Gold Bonds,UPI,2023-03-23,98760.19,10.38
+169,9,1100,Vacation,UPI,2021-12-26,35851.1,6.33
+170,1,62,Medical Insurance,Investment Account,2021-04-01,35300.16,3.76
+171,6,587,Stock,Credit Card,2023-11-07,48394.93,6.37
+172,4,1001,Medical Insurance,Bank Transfer,2024-12-07,22794.75,2.34
+173,5,689,Stock,Credit Card,2021-06-10,29725.49,
+174,2,340,Stock,Investment Account,2020-11-16,85220.32,5.43
+175,5,463,Gold Bonds,UPI,2020-03-31,65850.78,4.15
+176,5,1080,Emergency Fund,Investment Account,2021-03-14,36998.41,10.1
+177,9,361,Emergency Fund,Bank Transfer,2023-01-29,5143.46,8.67
+178,4,342,Term Insurance,UPI,2022-09-15,74695.09,2.63
+179,8,172,Emergency Fund,Credit Card,2023-02-12,8940.27,11.62
+180,6,1075,Emergency Fund,Bank Transfer,2022-10-09,14828.25,10.71
+181,6,587,Gold Bonds,Bank Transfer,2023-12-17,39419.35,3.74
+182,4,138,Stock,Credit Card,2020-08-23,14442.17,6.29
+183,4,752,Vacation,UPI,2022-06-15,92090.76,
+184,6,141,Emergency Fund,UPI,2021-12-06,96486.73,9.58
+185,7,409,Crypto,Investment Account,2020-07-14,51571.05,
+186,9,483,SIP,Investment Account,2023-01-27,38355.58,
+187,9,774,Term Insurance,UPI,2023-02-14,58398.75,3.19
+188,1,843,Stock,Credit Card,2024-07-26,15979.75,3.31
+189,7,409,SIP,Investment Account,2023-03-17,51580.23,10.72
+190,8,955,Emergency Fund,Investment Account,2025-02-02,71843.98,
+191,1,177,SIP,Bank Transfer,2020-04-18,30167.7,6.17
+192,6,339,Gold Bonds,Credit Card,2023-09-05,53849.62,10.02
+193,6,88,SIP,UPI,2024-07-27,87081.78,
+194,5,1080,SIP,Credit Card,2024-02-24,27314.56,3.45
+195,10,498,SIP,Investment Account,2022-09-30,43268.43,5.83
+196,8,172,Term Insurance,UPI,2024-11-05,69260.6,9.55
+197,8,1097,Term Insurance,Investment Account,2021-10-03,21918.84,2.99
+198,1,416,Stock,Bank Transfer,2021-07-11,64821.16,4.93
+199,1,729,SIP,Credit Card,2023-06-08,21193.12,3.76
+200,9,921,Term Insurance,Credit Card,2023-08-01,8625.49,7.24
+201,1,729,Crypto,Credit Card,2024-08-05,21423.55,8.41
+202,2,479,Term Insurance,Credit Card,2020-06-27,92097.02,11.01
+203,8,958,Stock,UPI,2024-01-18,67282.31,10.49
+204,5,668,Term Insurance,Credit Card,2021-02-17,37028.92,3.59
+205,4,454,Emergency Fund,Bank Transfer,2022-03-22,73400.06,4.64
+206,4,454,Emergency Fund,UPI,2022-11-12,70032.76,6.19
+207,10,908,Medical Insurance,Investment Account,2021-01-08,81877.98,6.97
+208,10,131,Crypto,Bank Transfer,2020-08-11,56943.29,3.1
+209,10,644,Medical Insurance,Investment Account,2022-01-06,52659.12,5.51
+210,2,479,Stock,UPI,2023-06-09,30956.01,8.99
+211,8,956,Crypto,Investment Account,2024-10-04,9999.6,9.63
+212,2,340,Term Insurance,Bank Transfer,2021-09-08,89674.5,6.62
+213,5,668,Term Insurance,Bank Transfer,2020-09-17,97083.6,8.52
+214,9,758,Emergency Fund,Investment Account,2022-11-27,77106.19,10.04
+215,1,293,Emergency Fund,Investment Account,2020-12-17,52433.14,
+216,4,665,Vacation,Investment Account,2021-10-14,99083.53,6.93
+217,5,520,Crypto,Credit Card,2024-08-18,15866.41,4.35
+218,9,313,Vacation,UPI,2023-04-26,96573.3,2.73
+219,5,463,Gold Bonds,UPI,2021-01-21,93402.84,4.82
+220,2,479,Term Insurance,Bank Transfer,2020-12-06,22031.57,
+221,1,554,Term Insurance,Bank Transfer,2023-06-10,38174.27,10.98
+222,1,293,Vacation,Credit Card,2022-05-30,75266.8,8.7
+223,3,674,Gold Bonds,Bank Transfer,2022-04-17,19049.66,10.46
+224,2,479,Emergency Fund,Credit Card,2023-07-02,67763.16,3.86
+225,1,132,Stock,UPI,2025-02-09,55886.65,
+226,2,222,Emergency Fund,Bank Transfer,2020-12-01,85680.01,10.99
+227,1,554,Emergency Fund,UPI,2024-05-11,69260.6,9.23
+228,4,342,SIP,Credit Card,2023-05-16,71748.28,2.56
+229,9,220,Gold Bonds,Credit Card,2022-11-01,9131.52,8.96
+230,5,520,Emergency Fund,Bank Transfer,2022-11-03,13296.57,2.43
+231,3,773,Medical Insurance,Investment Account,2020-08-07,95748.37,8.44
+232,6,91,Vacation,UPI,2023-10-25,47157.33,2.91
+233,2,340,Gold Bonds,Investment Account,2024-02-13,36343.01,
+234,9,215,Gold Bonds,UPI,2022-09-24,7411.05,10.28
+235,6,587,Vacation,Bank Transfer,2023-10-14,2029.3,10.5
+236,5,603,Stock,Investment Account,2023-05-10,51094.83,11.05
+237,8,958,Vacation,Bank Transfer,2021-05-07,67300.32,2.47
+238,6,538,Medical Insurance,Investment Account,2022-11-11,54521.14,
+239,10,589,Emergency Fund,Bank Transfer,2022-02-27,8593.19,11.55
+240,6,91,Stock,Investment Account,2023-10-28,95817.96,7.2
+241,10,131,SIP,Credit Card,2020-10-22,49013.15,8.59
+242,7,409,Crypto,UPI,2024-11-12,31416.01,5.96
+243,6,300,Stock,Bank Transfer,2021-03-20,26725.66,5.08
+244,1,554,Medical Insurance,Investment Account,2024-07-20,84347.83,8.24
+245,8,1097,Vacation,Investment Account,2021-09-10,39140.44,4.02
+246,4,831,Medical Insurance,UPI,2020-04-13,85313.49,4.85
+247,10,101,Vacation,Bank Transfer,2025-02-09,5750.03,
+248,2,107,Vacation,Bank Transfer,2021-12-19,6589.12,
+249,1,950,Gold Bonds,Investment Account,2022-09-07,79474.5,2.49
+250,3,773,Term Insurance,Investment Account,2024-12-26,6978.03,10.8
+251,5,509,Vacation,Credit Card,2020-06-15,63703.01,
+252,8,475,Vacation,UPI,2022-03-09,15354.2,10.43
+253,4,138,Gold Bonds,Bank Transfer,2020-06-21,81361.19,6.34
+254,2,340,Vacation,Credit Card,2022-11-10,88083.17,11.58
+255,2,45,Emergency Fund,UPI,2022-06-29,92612.78,3.47
+256,9,483,Crypto,Bank Transfer,2025-01-23,57293.4,5.24
+257,1,843,Term Insurance,Credit Card,2022-06-04,21874.06,7.81
+258,5,463,Emergency Fund,Credit Card,2021-01-12,98898.62,3.57
+259,10,369,SIP,Bank Transfer,2021-03-16,83452.03,11.2
+260,7,973,Stock,Credit Card,2021-12-04,8400.9,2.06
+261,1,554,SIP,Bank Transfer,2024-10-24,50218.16,11.25
+262,2,107,Term Insurance,Investment Account,2025-02-01,45650.33,10.04
+263,2,222,Crypto,Bank Transfer,2023-11-02,87041.88,10.83
+264,6,587,Medical Insurance,Investment Account,2025-01-04,3289.33,10.57
+265,9,361,Gold Bonds,Credit Card,2020-07-08,45901.21,7.27
+266,10,498,Gold Bonds,UPI,2024-08-21,62125.93,10.51
+267,6,88,Stock,Bank Transfer,2021-09-15,2229.13,10.22
+268,4,752,Stock,Bank Transfer,2021-10-21,98886.45,8.24
+269,9,920,Stock,UPI,2021-12-14,87032.41,9.45
+270,4,342,Gold Bonds,UPI,2021-01-03,42793.77,4.35
+271,4,665,Gold Bonds,Bank Transfer,2024-04-25,17072.45,
+272,6,584,Term Insurance,UPI,2024-06-11,50181.01,6.18
+273,8,172,Stock,UPI,2023-03-25,17606.62,9.12
+274,2,862,Vacation,Investment Account,2024-04-02,47093.43,5.95
+275,4,138,Term Insurance,UPI,2020-11-15,38151.76,9.6
+276,8,1097,Emergency Fund,Bank Transfer,2025-02-11,33297.42,6.61
+277,8,956,Gold Bonds,Bank Transfer,2024-10-14,17705.57,8.04
+278,1,950,Term Insurance,UPI,2023-10-17,88368.09,10.81
+279,5,668,Crypto,Credit Card,2022-10-18,49363.62,7.44
+280,2,222,SIP,Credit Card,2024-02-21,7698.95,6.19
+281,4,752,Emergency Fund,Bank Transfer,2021-04-03,8192.91,11.72
+282,4,819,SIP,Credit Card,2020-12-25,75227.47,5.49
+283,8,956,Gold Bonds,Bank Transfer,2022-07-08,85021.33,8.58
+284,7,332,Crypto,Credit Card,2021-12-22,79725.55,3.76
+285,5,463,Vacation,Investment Account,2022-06-26,8195.32,6.41
+286,6,587,Crypto,Bank Transfer,2022-06-25,33078.06,6.68
+287,3,531,Term Insurance,Credit Card,2022-04-12,72766.87,7.54
+288,5,931,SIP,Investment Account,2022-04-01,85147.38,7.75
+289,5,782,Gold Bonds,Investment Account,2022-03-22,22515.56,9.83
+290,9,482,SIP,Bank Transfer,2024-02-14,71118.05,8.92
+291,2,340,SIP,Bank Transfer,2023-06-22,27616.58,
+292,7,837,Emergency Fund,Bank Transfer,2021-07-28,63422.71,5.93
+293,9,817,Stock,Bank Transfer,2020-11-03,9118.6,4.53
+294,5,782,Emergency Fund,Investment Account,2024-05-19,64680.14,4.06
+295,6,339,Stock,UPI,2022-07-28,27424.75,7.22
+296,1,843,Emergency Fund,Investment Account,2022-10-21,99247.48,3.75
+297,3,773,Gold Bonds,UPI,2022-01-21,52827.41,6.0
+298,3,674,Gold Bonds,Bank Transfer,2024-11-11,38537.4,
+299,3,934,Stock,Credit Card,2022-10-01,86083.58,
+300,2,45,Crypto,UPI,2023-11-08,14076.84,11.34
+301,1,554,Emergency Fund,Credit Card,2023-06-14,65030.23,8.02
+302,1,293,Stock,UPI,2022-03-20,93752.15,6.91
+303,5,463,Crypto,Credit Card,2021-10-28,42832.5,10.98
+304,7,409,Vacation,Investment Account,2021-03-23,46661.14,5.84
+305,4,454,Vacation,Credit Card,2021-07-27,42492.35,5.09
+306,4,342,SIP,Bank Transfer,2024-04-02,10522.64,5.92
+307,6,91,Gold Bonds,Credit Card,2021-05-21,12352.29,10.01
+308,8,172,Stock,UPI,2021-12-22,88667.51,10.44
+309,7,837,Medical Insurance,UPI,2024-05-12,99198.29,4.69
+310,3,773,Stock,Bank Transfer,2024-11-16,33978.0,8.19
+311,10,644,Stock,Investment Account,2023-09-28,41794.02,8.55
+312,5,603,Term Insurance,UPI,2021-08-27,66123.46,11.42
+313,8,955,Vacation,Credit Card,2023-03-26,58265.71,
+314,3,934,Stock,Credit Card,2023-07-14,67064.74,2.52
+315,6,538,Stock,Credit Card,2024-02-17,87823.51,6.81
+316,2,1077,Emergency Fund,UPI,2022-10-29,97846.28,6.87
+317,5,781,SIP,UPI,2024-03-11,28115.36,5.53
+318,2,347,Vacation,Bank Transfer,2024-02-22,1813.81,11.2
+319,1,228,Medical Insurance,Credit Card,2022-06-30,38477.35,6.83
+320,1,729,SIP,Credit Card,2022-05-16,93482.86,4.96
+321,2,1077,Emergency Fund,Credit Card,2024-05-31,20488.75,2.07
+322,4,819,Vacation,Credit Card,2021-06-01,58822.03,3.53
+323,10,564,Gold Bonds,UPI,2023-08-15,82377.85,9.36
+324,7,218,Term Insurance,Bank Transfer,2022-01-24,85652.49,7.49
+325,1,293,Term Insurance,Credit Card,2022-12-29,88056.68,5.55
+326,7,409,Stock,Investment Account,2021-10-19,72334.26,3.39
+327,5,668,Medical Insurance,UPI,2023-09-30,43353.33,
+328,6,91,Term Insurance,Bank Transfer,2024-04-18,76983.03,9.05
+329,7,973,Gold Bonds,Credit Card,2023-09-02,84635.6,8.29
+330,7,409,Term Insurance,Investment Account,2024-09-02,52218.38,3.86
+331,10,319,Gold Bonds,Investment Account,2024-12-05,63188.98,8.43
+332,7,510,Gold Bonds,Credit Card,2022-07-06,42668.71,
+333,2,45,SIP,UPI,2024-11-17,27258.72,
+334,4,342,Crypto,Investment Account,2021-11-21,4224.64,11.51
+335,10,131,Term Insurance,Bank Transfer,2022-10-17,39795.59,8.4
+336,2,222,SIP,Bank Transfer,2022-04-07,67961.74,8.76
+337,9,920,Gold Bonds,Investment Account,2022-02-27,25486.74,4.79
+338,9,220,Stock,UPI,2020-10-21,23128.76,2.03
+339,4,342,Medical Insurance,Investment Account,2021-01-10,32137.66,7.09
+340,10,131,Vacation,Credit Card,2020-07-11,63382.77,10.18
+341,7,837,Medical Insurance,UPI,2021-01-11,35750.33,6.69
+342,9,220,Gold Bonds,Bank Transfer,2023-05-27,81683.4,7.71
+343,2,862,Term Insurance,Investment Account,2020-11-10,53400.79,7.44
+344,10,131,Term Insurance,UPI,2023-04-13,40282.45,
+345,3,934,Term Insurance,Credit Card,2024-03-16,71029.46,7.09
+346,4,831,Vacation,Credit Card,2024-12-30,10771.84,3.52
+347,2,268,Vacation,Investment Account,2022-10-25,63001.04,
+348,6,300,Crypto,Bank Transfer,2020-08-29,70518.0,3.66
+349,2,107,Gold Bonds,Credit Card,2021-11-11,47828.47,
+350,6,538,Medical Insurance,Investment Account,2021-07-24,1107.26,2.51
+351,8,955,Emergency Fund,Credit Card,2022-11-05,63958.59,
+352,9,920,Vacation,Credit Card,2021-07-09,93919.03,
+353,10,589,Stock,UPI,2022-03-11,42088.71,7.67
+354,1,228,Medical Insurance,UPI,2022-01-29,30870.92,4.24
+355,9,361,Vacation,Bank Transfer,2024-06-21,49384.77,2.66
+356,6,587,Stock,Credit Card,2024-06-03,77423.97,
+357,6,141,Vacation,UPI,2023-04-18,83705.08,
+358,8,1097,Emergency Fund,Investment Account,2020-07-02,40394.98,
+359,4,666,Crypto,Credit Card,2022-02-06,39847.18,2.4
+360,9,920,Gold Bonds,Investment Account,2020-10-22,95387.13,4.52
+361,6,91,Vacation,Bank Transfer,2024-05-27,79145.02,5.93
+362,6,88,Gold Bonds,Investment Account,2021-06-21,89606.98,6.5
+363,10,1034,Vacation,Investment Account,2025-02-09,58685.02,
+364,2,862,Medical Insurance,Investment Account,2023-09-22,93933.66,6.49
+365,1,524,Crypto,UPI,2021-01-18,10075.96,8.89
+366,6,88,Crypto,Bank Transfer,2023-02-01,61098.35,
+367,7,973,SIP,UPI,2021-07-03,79926.72,2.92
+368,7,960,Stock,Credit Card,2020-06-19,1189.61,5.78
+369,10,369,Vacation,Investment Account,2022-10-04,25532.65,7.08
+370,9,774,Crypto,Bank Transfer,2021-10-15,36434.95,5.52
+371,1,132,Vacation,Credit Card,2023-11-22,16675.34,6.82
+372,5,463,SIP,Investment Account,2023-08-23,64754.35,8.82
+373,1,729,Emergency Fund,Bank Transfer,2020-03-06,95275.49,2.39
+374,7,218,Medical Insurance,UPI,2023-05-14,70746.23,2.92
+375,3,531,Emergency Fund,Credit Card,2025-01-22,34654.13,5.21
+376,4,454,Stock,UPI,2024-09-05,84385.43,10.88
+377,10,319,Term Insurance,Investment Account,2020-04-03,51744.95,
+378,5,781,Emergency Fund,Credit Card,2023-08-31,17807.04,2.29
+379,10,1034,Stock,UPI,2020-10-13,84720.13,7.1
+380,10,908,Term Insurance,Investment Account,2024-01-19,67175.03,5.95
+381,7,409,Medical Insurance,Bank Transfer,2020-07-21,38398.2,7.97
+382,6,141,Term Insurance,UPI,2024-04-13,59575.4,9.55
+383,2,222,Term Insurance,Credit Card,2021-07-27,35357.12,5.83
+384,9,302,Term Insurance,Investment Account,2022-12-11,24431.3,10.23
+385,6,300,Crypto,Credit Card,2021-01-30,56477.28,
+386,8,958,Medical Insurance,Investment Account,2022-12-04,33378.72,
+387,6,339,Emergency Fund,UPI,2021-01-27,94569.13,7.46
+388,2,347,Stock,UPI,2020-03-24,25103.71,
+389,9,220,Crypto,Investment Account,2022-02-24,57205.42,8.56
+390,2,1077,Gold Bonds,UPI,2024-11-24,39212.31,4.18
+391,9,920,Emergency Fund,Bank Transfer,2023-07-31,28157.87,9.75
+392,7,960,Crypto,Investment Account,2021-03-30,36528.54,9.12
+393,3,773,Emergency Fund,UPI,2020-08-16,77949.08,11.67
+394,2,268,Gold Bonds,Investment Account,2022-03-04,41998.0,8.25
+395,5,782,Stock,Bank Transfer,2021-01-11,53734.79,6.93
+396,8,957,Gold Bonds,Bank Transfer,2022-01-16,21559.21,10.48
+397,7,960,Vacation,Bank Transfer,2021-09-25,49166.1,4.41
+398,5,463,Term Insurance,Credit Card,2023-02-28,54236.07,7.3
+399,2,340,Stock,Investment Account,2024-01-29,73392.55,
+400,4,454,Term Insurance,Credit Card,2024-09-16,20364.58,3.91
+401,2,222,Gold Bonds,Bank Transfer,2023-02-08,83616.01,9.96
+402,8,1097,Stock,Bank Transfer,2020-11-25,20503.41,5.04
+403,9,758,Emergency Fund,UPI,2023-07-31,6578.82,
+404,6,91,Stock,Investment Account,2020-10-07,60648.62,
+405,9,774,Term Insurance,Bank Transfer,2023-09-03,3704.17,
+406,1,62,Emergency Fund,UPI,2022-08-24,27644.97,6.02
+407,7,332,Crypto,Bank Transfer,2023-04-05,3630.9,8.33
+408,6,538,Gold Bonds,UPI,2022-06-16,58172.32,6.65
+409,5,781,Gold Bonds,Investment Account,2020-07-31,76534.06,7.42
+410,10,644,Term Insurance,Investment Account,2022-05-25,50612.97,
+411,3,674,Vacation,Investment Account,2022-02-03,70808.08,2.14
+412,3,674,Medical Insurance,UPI,2020-12-29,10579.04,7.06
+413,10,908,Stock,UPI,2021-02-08,35279.44,7.51
+414,2,340,Stock,Bank Transfer,2022-11-04,26612.31,
+415,6,88,Medical Insurance,Credit Card,2020-06-22,97997.41,6.91
+416,1,729,Vacation,Bank Transfer,2021-08-24,76965.86,3.34
+417,3,934,Term Insurance,Investment Account,2020-10-03,29908.2,3.28
+418,7,332,Emergency Fund,Credit Card,2020-08-19,58297.97,6.63
+419,6,946,Vacation,UPI,2023-07-04,97068.77,7.72
+420,7,973,Crypto,Bank Transfer,2020-06-07,39792.99,8.84
+421,6,88,Gold Bonds,Credit Card,2021-02-28,16868.49,6.2
+422,10,498,SIP,Investment Account,2020-03-18,8034.65,10.6
+423,9,758,Stock,UPI,2020-10-04,78825.95,4.71
+424,3,934,Vacation,Bank Transfer,2020-05-16,93577.91,2.53
+425,10,369,Vacation,Credit Card,2022-12-27,91074.14,5.65
+426,10,644,Gold Bonds,Investment Account,2021-06-05,35217.06,9.15
+427,8,955,Crypto,Credit Card,2024-11-01,10545.9,3.36
+428,2,222,Medical Insurance,Bank Transfer,2020-10-26,98611.24,
+429,1,416,SIP,Credit Card,2023-07-05,97159.05,6.53
+430,10,498,Crypto,Investment Account,2021-11-05,99721.59,10.06
+431,4,752,Term Insurance,UPI,2021-08-15,38567.02,4.45
+432,1,132,Stock,Investment Account,2021-04-28,61461.42,8.5
+433,7,837,Medical Insurance,Bank Transfer,2021-07-17,98456.65,4.01
+434,5,1045,Term Insurance,Bank Transfer,2024-08-12,5698.31,
+435,7,960,Medical Insurance,Credit Card,2024-10-09,19475.14,10.34
+436,9,920,Crypto,Credit Card,2021-12-16,43309.39,11.59
+437,2,107,SIP,Investment Account,2020-04-28,29614.25,9.1
+438,2,268,Gold Bonds,UPI,2025-01-03,39455.07,3.79
+439,6,91,Gold Bonds,UPI,2022-02-25,91157.12,7.02
+440,7,837,Vacation,UPI,2020-03-04,45887.72,11.89
+441,5,463,Crypto,Credit Card,2021-10-15,90298.42,
+442,6,339,Stock,Credit Card,2021-12-15,59397.87,7.59
+443,10,1034,Emergency Fund,Bank Transfer,2022-12-27,77958.12,3.21
+444,10,101,Crypto,Investment Account,2021-11-20,16288.53,2.57
+445,5,520,Crypto,Credit Card,2023-04-30,54357.49,6.92
+446,4,138,Gold Bonds,Credit Card,2022-11-23,6361.2,8.16
+447,8,172,Stock,Credit Card,2021-10-01,28606.77,10.64
+448,7,1072,SIP,Credit Card,2022-05-31,98112.23,
+449,5,668,Medical Insurance,Bank Transfer,2022-02-11,97666.26,
+450,9,817,Stock,Bank Transfer,2024-08-22,33135.72,4.33
+451,7,837,Vacation,UPI,2024-03-19,51518.05,2.34
+452,3,531,Emergency Fund,Investment Account,2021-12-31,33004.62,3.58
+453,6,946,Medical Insurance,Bank Transfer,2023-01-10,56244.07,5.84
+454,7,960,Gold Bonds,Bank Transfer,2022-09-21,54048.45,8.58
+455,5,781,Medical Insurance,Bank Transfer,2022-07-09,69012.61,7.34
+456,5,509,Stock,Bank Transfer,2024-08-08,88077.26,8.94
+457,9,220,Term Insurance,Credit Card,2022-09-19,56660.1,5.17
+458,2,347,Stock,Credit Card,2020-12-20,69888.17,9.91
+459,6,141,SIP,Bank Transfer,2021-10-25,74539.27,9.51
+460,3,773,Emergency Fund,UPI,2022-04-15,85558.03,
+461,1,228,Stock,Bank Transfer,2021-12-05,14882.81,3.25
+462,1,177,SIP,Investment Account,2024-02-17,6050.69,7.1
+463,3,531,Medical Insurance,Investment Account,2022-11-04,84108.59,8.2
+464,9,215,Stock,Credit Card,2020-05-16,56698.6,9.68
+465,6,587,Gold Bonds,UPI,2023-11-30,36879.01,2.58
+466,2,347,Emergency Fund,UPI,2024-08-22,21140.99,
+467,9,313,Term Insurance,UPI,2025-01-11,75083.06,9.59
+468,10,564,Term Insurance,Bank Transfer,2020-09-22,4734.99,4.08
+469,4,666,Emergency Fund,Bank Transfer,2024-10-20,74505.53,4.34
+470,5,509,Crypto,Investment Account,2021-07-27,31453.41,11.58
+471,3,773,Emergency Fund,Bank Transfer,2023-12-13,34290.98,8.17
+472,2,268,Term Insurance,UPI,2023-02-25,2288.42,
+473,6,714,Term Insurance,Investment Account,2023-10-18,5896.12,10.89
+474,8,958,Emergency Fund,Credit Card,2021-11-19,97887.37,9.71
+475,1,177,Term Insurance,UPI,2021-01-22,3554.23,10.29
+476,2,1077,Emergency Fund,UPI,2024-07-09,75951.79,3.81
+477,8,957,Vacation,Credit Card,2022-01-14,48453.85,6.18
+478,1,62,Stock,Bank Transfer,2024-02-04,32124.85,10.33
+479,4,665,Gold Bonds,Credit Card,2021-04-09,96580.42,
+480,4,752,Emergency Fund,UPI,2020-10-11,83405.29,
+481,9,591,Term Insurance,Credit Card,2024-03-11,8610.83,6.01
+482,10,319,Stock,Investment Account,2024-03-06,87995.4,10.71
+483,5,509,Gold Bonds,UPI,2023-06-12,46241.28,
+484,9,215,Emergency Fund,Credit Card,2023-11-11,26579.2,4.86
+485,9,215,SIP,Credit Card,2025-01-25,32721.93,6.29
+486,5,603,Crypto,Bank Transfer,2020-10-07,89716.85,3.39
+487,7,409,SIP,UPI,2021-06-21,91894.4,
+488,10,589,Medical Insurance,Bank Transfer,2023-01-13,62611.79,
+489,4,666,Emergency Fund,Bank Transfer,2023-01-27,24106.8,
+490,9,483,Stock,Investment Account,2020-12-27,9161.78,3.27
+491,2,222,Stock,Credit Card,2024-05-01,69000.66,
+492,1,132,Vacation,UPI,2020-05-21,30728.34,
+493,10,644,Vacation,UPI,2024-11-23,46378.53,2.18
+494,4,138,SIP,Credit Card,2023-07-02,46964.54,10.37
+495,7,218,Vacation,Investment Account,2021-10-29,49783.45,3.92
+496,2,222,Stock,UPI,2020-08-22,97261.39,11.77
+497,5,1045,Vacation,Bank Transfer,2025-01-25,70068.36,5.68
+498,2,1077,Gold Bonds,Investment Account,2024-10-19,98576.8,
+499,2,347,SIP,Investment Account,2023-06-05,79046.42,2.43
+500,10,131,Vacation,Investment Account,2022-03-05,71028.37,9.92
+501,1,729,Emergency Fund,Credit Card,2024-12-10,82985.57,10.78
+502,7,510,Term Insurance,Bank Transfer,2022-12-30,5282.24,9.57
+503,6,88,Emergency Fund,Investment Account,2021-09-27,63161.42,8.36
+504,10,498,Stock,Investment Account,2020-12-07,45698.41,11.68
+505,7,510,Crypto,Credit Card,2023-02-06,52081.82,4.49
+506,7,1072,Crypto,UPI,2022-01-06,64294.44,
+507,5,1080,Gold Bonds,Credit Card,2020-12-28,95149.18,
+508,8,956,SIP,UPI,2021-10-01,27117.71,2.66
+509,6,1075,Crypto,Bank Transfer,2022-10-07,19689.0,
+510,10,369,SIP,Investment Account,2022-04-02,92268.26,6.61
+511,8,1097,Vacation,Bank Transfer,2022-12-04,42596.34,2.23
+512,4,454,Gold Bonds,Bank Transfer,2023-09-29,19106.32,7.56
+513,6,714,Gold Bonds,Investment Account,2022-03-07,74380.18,
+514,9,774,Gold Bonds,Credit Card,2021-01-11,30193.31,
+515,9,220,Crypto,UPI,2024-02-13,93291.98,3.38
+516,5,715,Stock,UPI,2023-10-12,61344.9,9.16
+517,6,88,Medical Insurance,Bank Transfer,2024-10-09,97732.79,6.93
+518,10,1035,Stock,Investment Account,2020-04-27,6179.92,5.17
+519,1,950,Stock,Bank Transfer,2025-01-25,80799.02,4.52
+520,5,1045,Medical Insurance,Bank Transfer,2021-07-16,36149.26,
+521,6,946,SIP,Credit Card,2020-03-03,75101.7,3.29
+522,8,475,Stock,Credit Card,2021-12-09,80801.08,7.9
+523,2,347,SIP,Bank Transfer,2022-08-24,12804.68,3.1
+524,5,1080,Medical Insurance,Credit Card,2021-05-15,80826.9,5.26
+525,1,62,SIP,Bank Transfer,2023-12-08,2864.72,
+526,9,313,Stock,Bank Transfer,2022-11-15,72187.28,5.58
+527,1,177,Gold Bonds,Investment Account,2020-11-07,45488.08,4.12
+528,6,946,Term Insurance,UPI,2022-12-24,10667.92,11.68
+529,7,218,Gold Bonds,UPI,2021-01-07,37654.64,6.63
+530,6,714,Gold Bonds,Credit Card,2021-11-04,13868.81,
+531,9,921,Crypto,Investment Account,2024-01-04,24707.67,4.45
+532,6,538,Emergency Fund,UPI,2025-01-09,84380.65,6.9
+533,7,409,Medical Insurance,Credit Card,2022-11-16,90380.06,
+534,7,510,Medical Insurance,Investment Account,2022-09-23,47074.64,
+535,5,603,Crypto,Investment Account,2021-12-22,58826.11,3.05
+536,8,956,Medical Insurance,Credit Card,2022-01-04,20969.68,
+537,7,218,Emergency Fund,Credit Card,2022-09-05,47391.35,9.81
+538,8,958,Emergency Fund,Bank Transfer,2024-09-28,82201.36,8.69
+539,7,960,Gold Bonds,Bank Transfer,2021-01-17,20506.27,11.53
+540,1,843,Vacation,Credit Card,2023-11-16,37057.93,11.3
+541,9,313,Vacation,UPI,2022-07-04,84922.71,5.82
+542,1,416,Stock,Investment Account,2021-03-23,68698.1,
+543,8,956,Stock,Investment Account,2021-05-06,85315.51,7.87
+544,9,758,SIP,Bank Transfer,2023-08-20,5965.56,9.46
+545,2,340,Term Insurance,Bank Transfer,2022-01-13,25513.11,
+546,9,774,Stock,Bank Transfer,2025-02-27,25800.5,3.07
+547,2,45,Term Insurance,UPI,2022-08-11,9326.05,
+548,6,1075,Vacation,Investment Account,2024-05-25,29998.56,2.04
+549,8,742,Gold Bonds,Credit Card,2021-03-03,14873.18,
+550,6,141,Gold Bonds,Credit Card,2025-03-02,5557.65,
+551,6,1075,Emergency Fund,Credit Card,2024-11-28,63642.03,
+552,5,1080,Emergency Fund,Investment Account,2021-09-14,75412.05,10.01
+553,4,342,Stock,Credit Card,2024-08-08,89198.23,9.41
+554,7,332,Gold Bonds,Investment Account,2023-03-29,55578.76,4.54
+555,9,758,Stock,Credit Card,2020-10-13,39182.44,10.94
+556,2,479,Crypto,Investment Account,2023-04-12,24794.89,
+557,7,409,Vacation,Bank Transfer,2020-05-31,50801.72,
+558,4,831,Medical Insurance,Credit Card,2022-05-27,78278.41,8.52
+559,5,781,Vacation,Credit Card,2024-02-28,30166.02,9.63
+560,6,91,Medical Insurance,Investment Account,2024-12-22,42777.33,5.97
+561,1,843,Emergency Fund,Investment Account,2022-02-03,52992.49,
+562,6,946,SIP,Bank Transfer,2023-10-11,66058.1,8.35
+563,7,409,Vacation,Investment Account,2021-09-27,3606.85,5.58
+564,4,831,Emergency Fund,Credit Card,2023-11-28,46527.95,7.84
+565,4,138,SIP,UPI,2020-03-19,53539.45,11.86
+566,5,689,Term Insurance,Bank Transfer,2020-07-28,14674.17,10.76
+567,4,665,Gold Bonds,UPI,2024-06-01,52040.45,6.28
+568,8,475,SIP,UPI,2022-04-22,4063.61,11.79
+569,9,361,Gold Bonds,Bank Transfer,2021-11-25,30429.86,5.41
+570,2,1077,Stock,Bank Transfer,2024-01-16,82656.77,5.11
+571,6,584,Stock,UPI,2020-06-13,96577.04,
+572,6,584,Emergency Fund,UPI,2022-12-12,48354.12,8.06
+573,6,88,SIP,Bank Transfer,2021-10-27,60728.73,11.64
+574,2,222,Emergency Fund,UPI,2024-03-09,54357.82,
+575,2,107,Medical Insurance,Investment Account,2022-02-19,50253.84,
+576,4,138,SIP,UPI,2023-06-16,13535.95,7.08
+577,3,773,Emergency Fund,Bank Transfer,2020-11-19,56168.21,6.49
+578,10,589,Crypto,UPI,2023-12-07,29123.59,
+579,10,564,Term Insurance,Credit Card,2022-09-02,37552.09,6.8
+580,9,483,Vacation,Investment Account,2022-01-11,7374.58,
+581,2,479,SIP,UPI,2022-11-17,53002.7,10.24
+582,7,973,Crypto,Investment Account,2021-07-25,34550.82,8.17
+583,2,222,Stock,Credit Card,2020-05-10,78766.3,4.74
+584,2,479,Medical Insurance,UPI,2023-06-07,67889.44,4.53
+585,2,45,Emergency Fund,UPI,2020-03-25,72108.69,10.2
+586,6,339,SIP,Credit Card,2020-12-03,50499.17,11.73
+587,5,463,Crypto,Investment Account,2021-01-28,21342.54,11.68
+588,5,509,Stock,Investment Account,2022-06-15,11584.68,3.89
+589,4,831,Crypto,UPI,2023-12-29,44480.41,7.24
+590,7,218,Vacation,Bank Transfer,2021-03-31,18563.32,11.77
+591,9,483,Crypto,Credit Card,2020-11-03,51401.8,7.08
+592,3,531,Medical Insurance,Bank Transfer,2021-02-07,24102.71,7.26
+593,10,589,Stock,Credit Card,2021-07-15,1741.37,8.93
+594,9,215,SIP,UPI,2023-08-16,64479.15,9.65
+595,6,91,Vacation,Bank Transfer,2024-11-03,96176.68,11.67
+596,9,482,Medical Insurance,Investment Account,2021-08-15,96695.81,8.95
+597,1,554,Stock,Credit Card,2023-02-03,20551.32,3.03
+598,6,587,Gold Bonds,UPI,2021-02-20,60519.37,
+599,5,1080,Emergency Fund,UPI,2021-12-31,74592.12,
+600,1,729,Crypto,Credit Card,2021-07-17,88411.43,11.41
+601,10,908,Crypto,Bank Transfer,2021-05-02,36155.92,4.52
+602,4,819,SIP,UPI,2022-08-30,35960.94,6.97
+603,7,510,Gold Bonds,Bank Transfer,2024-05-01,29025.8,10.92
+604,8,475,Crypto,Bank Transfer,2023-08-09,89054.67,3.24
+605,2,107,Vacation,Credit Card,2021-11-18,63512.26,9.58
+606,2,107,Gold Bonds,Bank Transfer,2022-10-01,42972.25,3.68
+607,6,946,Crypto,UPI,2020-04-17,91461.56,3.37
+608,9,313,Gold Bonds,Investment Account,2023-06-21,99311.92,
+609,5,782,Crypto,Bank Transfer,2023-04-13,6016.68,7.33
+610,8,172,Crypto,UPI,2023-05-04,62193.69,11.17
+611,9,1100,Emergency Fund,Bank Transfer,2021-06-20,18032.61,7.94
+612,5,1045,Emergency Fund,Investment Account,2023-04-07,59529.89,2.99
+613,8,476,SIP,Bank Transfer,2024-02-06,81659.34,
+614,9,483,Gold Bonds,Bank Transfer,2021-09-23,63646.57,5.86
+615,6,141,Emergency Fund,UPI,2021-05-24,58485.59,2.9
+616,5,1045,Gold Bonds,UPI,2024-04-11,89831.8,11.77
+617,10,589,Medical Insurance,Investment Account,2023-09-02,12774.34,9.61
+618,6,91,Vacation,Credit Card,2021-10-12,50861.24,
+619,3,531,Stock,Bank Transfer,2023-03-25,67014.55,
+620,8,956,Vacation,UPI,2024-01-16,39811.02,
+621,6,538,Medical Insurance,Bank Transfer,2020-08-16,17559.0,9.81
+622,4,665,Crypto,Investment Account,2023-05-23,87139.98,
+623,6,339,Gold Bonds,Bank Transfer,2023-11-17,55968.77,3.02
+624,5,715,Term Insurance,Investment Account,2023-03-21,62241.27,7.0
+625,1,416,Gold Bonds,UPI,2023-11-14,36173.76,
+626,7,837,Vacation,UPI,2020-05-11,45976.17,5.43
+627,9,313,Crypto,Bank Transfer,2021-07-30,83807.2,2.3
+628,5,520,Stock,Credit Card,2025-01-07,21320.7,4.26
+629,6,1075,Stock,UPI,2022-12-20,17491.09,11.43
+630,9,1100,Term Insurance,UPI,2022-07-25,49816.3,7.72
+631,2,479,Stock,Credit Card,2020-12-10,15922.71,6.92
+632,6,141,Term Insurance,Credit Card,2023-08-26,5604.57,2.7
+633,3,531,Gold Bonds,UPI,2021-07-03,76020.93,11.04
+634,8,742,Medical Insurance,Credit Card,2024-09-17,93349.46,8.34
+635,9,483,Medical Insurance,Credit Card,2020-12-19,38890.65,9.9
+636,1,729,Stock,UPI,2021-05-25,79996.01,
+637,2,268,SIP,Investment Account,2022-05-24,70856.97,5.12
+638,6,300,Gold Bonds,Credit Card,2023-08-21,63826.9,2.06
+639,8,956,Emergency Fund,Investment Account,2021-02-05,42315.74,10.13
+640,7,510,Medical Insurance,Credit Card,2021-10-13,42225.24,4.75
+641,6,141,Vacation,UPI,2025-02-03,27861.23,2.96
+642,10,319,Gold Bonds,Investment Account,2024-08-13,41852.55,3.87
+643,4,665,Emergency Fund,Bank Transfer,2021-01-15,54073.57,10.83
+644,8,955,Gold Bonds,Credit Card,2023-04-28,7109.66,
+645,7,332,Term Insurance,Investment Account,2021-03-11,45441.32,5.8
+646,5,781,Gold Bonds,Bank Transfer,2020-07-26,23876.72,4.8
+647,5,689,Emergency Fund,Investment Account,2020-05-01,54716.21,
+648,9,482,Medical Insurance,Credit Card,2025-02-16,84746.93,
+649,3,674,Medical Insurance,UPI,2025-02-05,36894.06,10.98
+650,1,524,Term Insurance,UPI,2021-01-24,20150.76,
+651,2,340,Gold Bonds,Credit Card,2022-09-06,30269.8,
+652,3,934,Crypto,Investment Account,2022-03-18,57408.68,5.44
+653,7,218,Crypto,Bank Transfer,2021-11-21,95960.06,9.46
+654,9,921,Gold Bonds,UPI,2020-08-17,86887.79,
+655,2,340,Gold Bonds,Credit Card,2020-06-20,57730.63,9.96
+656,1,554,Gold Bonds,UPI,2020-12-05,63471.59,6.17
+657,5,689,Emergency Fund,Bank Transfer,2024-05-13,97292.65,
+658,1,416,Stock,Investment Account,2023-11-28,54965.61,11.81
+659,2,1077,SIP,Bank Transfer,2020-05-18,62420.77,
+660,2,45,Term Insurance,Credit Card,2022-04-07,38569.1,10.21
+661,8,957,Medical Insurance,Bank Transfer,2022-11-25,17035.24,6.85
+662,8,1097,Vacation,Bank Transfer,2021-04-21,79993.85,11.9
+663,6,946,Gold Bonds,Credit Card,2020-06-04,59083.71,6.07
+664,1,950,Vacation,UPI,2020-09-12,4382.22,9.84
+665,10,319,Stock,Bank Transfer,2024-05-18,62006.45,11.77
+666,4,666,Gold Bonds,UPI,2024-06-15,25028.09,
+667,9,220,Gold Bonds,Investment Account,2023-01-10,72650.16,10.34
+668,2,45,Crypto,Bank Transfer,2022-09-18,53969.47,11.97
+669,5,1080,Term Insurance,Bank Transfer,2023-05-06,58133.57,4.11
+670,9,313,Medical Insurance,Credit Card,2020-05-02,84431.57,11.06
+671,2,862,SIP,Bank Transfer,2021-10-10,33417.69,7.8
+672,5,931,Term Insurance,Credit Card,2022-09-12,25807.71,10.67
+673,4,665,SIP,Investment Account,2023-02-26,85819.48,
+674,2,1077,Crypto,UPI,2022-03-05,25383.56,10.97
+675,8,956,Emergency Fund,Investment Account,2020-08-16,19771.2,5.3
+676,2,45,Stock,Investment Account,2024-07-05,99429.87,3.64
+677,10,319,SIP,Credit Card,2023-06-28,68804.28,
+678,1,554,Medical Insurance,UPI,2024-01-07,26004.18,7.87
+679,9,774,Stock,UPI,2022-04-20,95759.72,
+680,8,476,Emergency Fund,Investment Account,2020-07-01,67637.65,9.85
+681,8,955,Medical Insurance,Bank Transfer,2024-05-31,52622.12,6.64
+682,10,131,Emergency Fund,Investment Account,2022-07-27,42956.35,3.06
+683,7,960,Stock,Investment Account,2022-04-10,75421.23,2.67
+684,9,302,Stock,Credit Card,2024-12-18,27130.94,5.72
+685,5,782,Stock,Investment Account,2024-04-24,74732.07,4.46
+686,5,520,Stock,UPI,2024-01-09,78645.33,9.52
+687,4,819,Vacation,Credit Card,2024-06-24,72992.86,5.07
+688,2,479,Vacation,Bank Transfer,2024-01-06,87992.35,
+689,7,1072,Gold Bonds,UPI,2020-12-20,64561.02,5.6
+690,9,215,Stock,UPI,2021-11-03,3825.74,4.45
+691,2,45,Emergency Fund,Credit Card,2022-06-10,40771.44,
+692,2,340,Emergency Fund,Credit Card,2024-03-07,39265.34,
+693,1,416,Stock,Investment Account,2020-11-25,75441.56,9.78
+694,7,510,Medical Insurance,Bank Transfer,2020-06-02,74748.32,2.75
+695,4,454,Gold Bonds,UPI,2021-09-09,50384.76,10.95
+696,8,476,Stock,Investment Account,2023-08-16,26396.92,6.24
+697,6,714,Crypto,Investment Account,2022-04-24,45950.86,7.72
+698,10,369,Crypto,UPI,2025-03-03,49895.51,3.97
+699,1,177,SIP,Investment Account,2021-02-01,24060.04,
+700,6,1075,Emergency Fund,Credit Card,2023-05-14,8060.4,11.36
+701,9,215,Gold Bonds,Credit Card,2024-01-24,20675.45,9.5
+702,5,689,Vacation,Bank Transfer,2021-02-04,93089.38,2.61
+703,9,920,Stock,UPI,2022-05-08,55492.18,11.13
+704,8,956,Vacation,Investment Account,2021-02-24,85563.24,3.35
+705,7,218,Emergency Fund,UPI,2020-12-30,68607.63,2.56
+706,5,782,Stock,Bank Transfer,2021-04-03,33092.65,10.38
+707,5,1045,Crypto,UPI,2020-06-14,32274.38,5.03
+708,9,483,Vacation,UPI,2022-07-05,69050.3,2.57
+709,5,1080,Emergency Fund,UPI,2024-02-01,28457.45,8.8
+710,1,950,Crypto,Bank Transfer,2021-02-23,19045.28,
+711,6,1075,Term Insurance,Bank Transfer,2023-06-15,1372.21,11.92
+712,10,564,Medical Insurance,Credit Card,2023-08-08,9988.75,
+713,9,313,SIP,Investment Account,2022-09-14,49040.72,3.61
+714,6,538,SIP,Bank Transfer,2022-06-29,2272.0,9.76
+715,5,1045,Emergency Fund,UPI,2024-09-22,16284.53,7.23
+716,9,215,Vacation,Credit Card,2020-03-26,94591.23,10.91
+717,7,510,Gold Bonds,UPI,2022-01-09,33118.82,4.32
+718,5,1045,Emergency Fund,Bank Transfer,2021-09-03,79941.67,10.52
+719,5,1045,Gold Bonds,Bank Transfer,2021-05-20,19885.11,9.65
+720,7,409,Gold Bonds,Credit Card,2022-11-26,38421.06,
+721,8,956,Vacation,Investment Account,2022-08-10,91983.25,7.55
+722,7,973,Medical Insurance,UPI,2023-11-08,48131.53,
+723,10,369,SIP,Investment Account,2024-07-08,26113.5,6.16
+724,5,463,Emergency Fund,Investment Account,2022-07-16,17537.26,9.65
+725,2,347,Vacation,UPI,2024-09-01,22892.25,2.69
+726,5,520,Stock,Bank Transfer,2023-04-11,74150.52,10.03
+727,6,300,Stock,Investment Account,2023-03-04,24926.72,4.06
+728,2,862,Emergency Fund,Investment Account,2022-01-04,22591.55,6.89
+729,9,1100,Crypto,Investment Account,2020-06-13,42800.7,7.23
+730,7,1072,SIP,Investment Account,2023-10-14,2284.16,7.19
+731,2,340,Term Insurance,Credit Card,2023-12-19,36824.34,9.33
+732,10,589,Gold Bonds,Credit Card,2021-09-22,78642.52,5.26
+733,6,88,Medical Insurance,UPI,2023-06-08,89685.44,8.32
+734,7,960,Emergency Fund,Bank Transfer,2020-09-05,71965.3,8.44
+735,2,1077,Vacation,Bank Transfer,2023-02-22,17155.05,10.68
+736,6,91,Stock,UPI,2023-11-02,12838.71,9.76
+737,7,960,Medical Insurance,Bank Transfer,2023-06-26,4157.52,4.09
+738,10,498,Medical Insurance,UPI,2023-04-24,70229.42,11.01
+739,1,843,Emergency Fund,Bank Transfer,2023-01-23,14439.48,
+740,9,920,Gold Bonds,UPI,2022-10-21,3116.4,5.57
+741,10,319,Medical Insurance,Investment Account,2021-08-09,17647.26,
+742,10,1034,SIP,UPI,2024-03-27,89542.11,10.03
+743,2,862,Term Insurance,UPI,2022-12-09,31994.55,2.68
+744,4,138,Vacation,Credit Card,2022-08-12,95828.16,7.28
+745,4,665,Emergency Fund,Investment Account,2024-01-04,84436.78,4.58
+746,1,843,Term Insurance,UPI,2021-01-18,64769.94,2.55
+747,3,531,Medical Insurance,Investment Account,2022-09-08,31483.54,
+748,2,268,Vacation,Bank Transfer,2024-05-07,2297.89,5.93
+749,2,479,Term Insurance,Credit Card,2023-03-14,54490.5,11.03
+750,1,416,SIP,Investment Account,2024-07-06,79310.76,2.01
+751,3,674,Crypto,UPI,2023-04-23,13070.49,4.51
+752,6,1075,Medical Insurance,Bank Transfer,2024-07-08,53897.46,
+753,10,589,Gold Bonds,Bank Transfer,2020-05-15,41882.0,
+754,2,479,Emergency Fund,Investment Account,2023-11-01,89728.02,11.56
+755,10,908,Term Insurance,Investment Account,2022-07-02,26024.59,2.41
+756,8,475,Medical Insurance,Credit Card,2024-06-24,3175.41,8.9
+757,3,934,Term Insurance,UPI,2023-12-30,92646.86,6.41
+758,8,475,Vacation,Investment Account,2024-04-14,85031.58,11.38
+759,8,742,Stock,Credit Card,2022-07-14,68239.23,9.42
+760,10,131,Term Insurance,Investment Account,2024-10-30,81782.61,10.72
+761,1,416,Vacation,Credit Card,2020-09-30,2435.52,10.76
+762,8,476,Vacation,Credit Card,2022-09-11,90474.68,8.21
+763,1,729,Medical Insurance,Bank Transfer,2021-09-19,29262.3,11.74
+764,2,45,Medical Insurance,Bank Transfer,2024-10-21,17560.1,4.2
+765,2,479,Term Insurance,Bank Transfer,2023-07-26,76733.5,
+766,4,1001,Stock,UPI,2024-09-07,30901.18,5.89
+767,8,172,SIP,UPI,2023-06-13,20882.61,3.55
+768,1,62,Vacation,UPI,2021-11-13,69171.63,4.39
+769,1,62,Medical Insurance,Investment Account,2024-06-27,24074.57,
+770,7,218,Medical Insurance,Credit Card,2021-12-18,50401.72,3.44
+771,2,107,Crypto,Investment Account,2021-12-03,61250.41,2.92
+772,8,172,Emergency Fund,Investment Account,2020-09-23,7082.46,11.96
+773,6,538,Term Insurance,Investment Account,2020-12-03,72677.48,
+774,1,729,SIP,UPI,2024-06-22,42381.82,10.33
+775,2,862,Emergency Fund,Bank Transfer,2020-07-13,21153.85,10.16
+776,5,668,Medical Insurance,Investment Account,2022-10-27,45696.41,5.78
+777,1,843,Vacation,Bank Transfer,2023-07-08,53821.94,10.5
+778,5,520,Crypto,Investment Account,2025-02-15,21627.84,3.38
+779,3,531,Crypto,Bank Transfer,2022-10-29,96365.72,5.98
+780,7,409,Vacation,Credit Card,2021-03-02,54897.02,10.12
+781,2,862,Gold Bonds,Credit Card,2020-07-10,26099.58,10.72
+782,6,91,Emergency Fund,Bank Transfer,2021-01-03,62544.42,
+783,4,666,Term Insurance,Credit Card,2021-08-30,20814.27,8.27
+784,4,666,Term Insurance,Investment Account,2022-10-26,34412.34,5.24
+785,9,758,Crypto,UPI,2021-05-14,61645.48,4.02
+786,5,668,SIP,Bank Transfer,2022-12-25,32083.54,
+787,6,300,Stock,Bank Transfer,2022-11-30,36633.59,8.31
+788,9,758,SIP,UPI,2020-07-09,93999.25,6.46
+789,9,774,Term Insurance,UPI,2021-04-11,78471.14,4.08
+790,10,564,Term Insurance,Bank Transfer,2024-07-23,56771.84,11.82
+791,9,774,Emergency Fund,Investment Account,2024-08-20,2508.07,4.49
+792,6,946,Gold Bonds,Credit Card,2020-06-15,24143.35,3.36
+793,1,950,Crypto,UPI,2023-06-20,43843.25,3.24
+794,4,752,Crypto,UPI,2024-08-09,96259.14,7.66
+795,6,587,Crypto,Investment Account,2021-12-30,93031.41,5.47
+796,5,931,Medical Insurance,Bank Transfer,2022-03-01,90611.58,9.37
+797,5,931,Term Insurance,Bank Transfer,2020-05-23,68408.69,11.37
+798,4,1001,Term Insurance,Credit Card,2024-05-08,88148.75,
+799,1,132,SIP,UPI,2022-04-18,99840.3,7.29
+800,5,781,SIP,Bank Transfer,2022-03-19,75241.99,10.41
+801,2,479,Gold Bonds,Investment Account,2024-06-22,14715.9,7.73
+802,1,843,Crypto,Bank Transfer,2023-04-03,26708.73,
+803,2,45,Term Insurance,Credit Card,2021-11-10,88497.6,
+804,7,837,Crypto,UPI,2022-07-10,80553.2,9.27
+805,9,817,SIP,Bank Transfer,2022-03-30,13780.46,2.04
+806,6,714,Term Insurance,Investment Account,2024-04-21,36153.87,6.25
+807,6,91,Vacation,Credit Card,2020-07-03,44691.34,4.03
+808,5,781,Stock,Investment Account,2022-01-31,85963.16,3.6
+809,5,931,Crypto,Investment Account,2023-08-01,96684.5,6.13
+810,6,300,SIP,Bank Transfer,2024-02-28,17969.07,
+811,10,498,Gold Bonds,Credit Card,2022-01-13,45702.53,10.53
+812,2,268,SIP,Credit Card,2022-10-21,97475.19,5.96
+813,2,107,Emergency Fund,Bank Transfer,2020-08-09,96487.74,
+814,7,1072,Medical Insurance,UPI,2022-07-31,97421.83,
+815,8,742,Emergency Fund,Investment Account,2023-11-18,72154.37,3.15
+816,7,510,SIP,Bank Transfer,2022-09-23,79716.74,4.04
+817,7,510,Term Insurance,Investment Account,2021-06-12,77905.05,6.1
+818,3,934,Term Insurance,UPI,2024-01-04,36612.68,10.6
+819,6,88,Vacation,UPI,2021-12-28,61786.82,
+820,2,45,Stock,Investment Account,2020-09-25,75341.82,4.53
+821,7,218,Gold Bonds,Credit Card,2023-05-08,69649.56,6.12
+822,10,131,Gold Bonds,Investment Account,2025-02-01,23694.9,2.24
+823,9,302,Gold Bonds,UPI,2021-11-18,3898.95,5.66
+824,8,958,Vacation,Credit Card,2023-02-28,75403.82,
+825,2,340,Emergency Fund,Bank Transfer,2023-10-18,63844.23,7.69
+826,9,302,Term Insurance,Investment Account,2020-09-30,90719.59,7.22
+827,6,584,Gold Bonds,UPI,2020-11-15,97666.4,5.85
+828,5,782,Vacation,Credit Card,2023-11-15,58463.39,8.61
+829,3,531,Gold Bonds,UPI,2024-10-01,60510.09,
+830,4,666,Vacation,Investment Account,2024-05-05,36245.73,4.45
+831,8,957,Gold Bonds,Credit Card,2020-07-16,25536.97,4.65
+832,2,862,Emergency Fund,Credit Card,2021-12-07,1488.64,4.85
+833,9,591,Vacation,Bank Transfer,2024-02-14,45572.41,4.45
+834,7,837,Stock,Bank Transfer,2021-12-19,10556.22,9.13
+835,3,531,Stock,Investment Account,2024-08-15,46406.42,6.94
+836,2,268,SIP,UPI,2024-10-07,22710.9,
+837,3,531,Crypto,Bank Transfer,2021-02-23,36331.68,
+838,7,218,Term Insurance,Investment Account,2020-05-23,13696.81,8.31
+839,2,340,Crypto,Credit Card,2020-03-27,81685.49,6.1
+840,9,482,Gold Bonds,Credit Card,2021-11-09,53267.55,11.1
+841,3,531,Crypto,Credit Card,2021-08-07,86272.26,10.05
+842,3,773,Emergency Fund,UPI,2021-08-29,88472.35,4.92
+843,10,101,Term Insurance,Investment Account,2022-10-31,45067.55,8.05
+844,2,347,SIP,UPI,2023-02-01,52607.84,2.98
+845,9,220,Gold Bonds,Investment Account,2021-08-09,19638.46,6.74
+846,7,973,Emergency Fund,Bank Transfer,2024-02-06,19236.39,11.41
+847,5,1045,Term Insurance,UPI,2024-03-16,59132.51,
+848,10,564,Vacation,UPI,2024-08-03,76390.34,6.71
+849,6,141,SIP,Investment Account,2020-12-04,42348.32,2.55
+850,10,101,Term Insurance,Bank Transfer,2020-05-04,61177.12,
+851,2,107,Gold Bonds,Investment Account,2022-03-26,23185.97,7.32
+852,1,843,Crypto,Credit Card,2021-10-31,13977.57,6.27
+853,1,132,Term Insurance,UPI,2021-05-28,45348.47,7.81
+854,9,1100,Emergency Fund,Credit Card,2024-01-22,84370.69,6.36
+855,2,107,Stock,Investment Account,2023-12-31,19453.02,5.35
+856,1,228,Crypto,Investment Account,2023-05-14,24402.7,6.21
+857,10,908,Emergency Fund,Bank Transfer,2021-11-03,70178.61,2.73
+858,7,1072,Stock,Credit Card,2024-07-30,73328.73,9.09
+859,10,589,Gold Bonds,Credit Card,2023-03-29,79555.57,
+860,2,862,Medical Insurance,Credit Card,2024-04-19,32045.4,7.33
+861,7,332,Stock,UPI,2020-09-21,78808.08,7.14
+862,4,666,Gold Bonds,Bank Transfer,2021-02-12,29248.59,8.99
+863,10,908,Crypto,Investment Account,2023-06-12,62803.94,
+864,8,475,Gold Bonds,Bank Transfer,2024-06-13,76797.62,
+865,10,498,Term Insurance,Investment Account,2020-05-16,5429.44,8.79
+866,8,956,Gold Bonds,UPI,2021-10-13,72877.82,2.33
+867,1,62,SIP,UPI,2020-11-08,54648.15,10.73
+868,9,921,Crypto,Credit Card,2022-02-20,80634.99,7.58
+869,8,957,Vacation,UPI,2023-03-28,12318.71,6.89
+870,7,409,SIP,Bank Transfer,2022-11-01,98353.49,9.64
+871,7,960,Medical Insurance,Bank Transfer,2020-06-18,2338.62,
+872,7,973,Emergency Fund,Credit Card,2021-12-01,12415.05,4.11
+873,2,862,Crypto,Credit Card,2022-12-24,79612.23,
+874,6,300,Stock,Investment Account,2020-10-10,33761.53,
+875,5,509,Gold Bonds,UPI,2024-06-08,24378.1,2.84
+876,9,921,Stock,Credit Card,2022-06-29,22179.99,8.03
+877,8,476,Emergency Fund,Bank Transfer,2025-02-21,12780.69,6.48
+878,10,644,Medical Insurance,UPI,2021-02-24,82110.19,3.84
+879,6,587,Term Insurance,Bank Transfer,2022-01-13,49542.33,2.67
+880,9,591,SIP,Credit Card,2023-08-22,9068.07,5.86
+881,6,339,Stock,Bank Transfer,2023-11-23,60305.68,10.6
+882,9,313,Medical Insurance,Bank Transfer,2023-02-27,13327.81,7.22
+883,2,347,Stock,Credit Card,2023-08-06,61861.97,7.46
+884,4,752,Term Insurance,Investment Account,2024-05-24,76938.57,5.45
+885,3,674,Gold Bonds,Investment Account,2023-08-14,82698.21,9.98
+886,2,479,Crypto,UPI,2023-05-08,72420.94,4.21
+887,9,758,Crypto,Bank Transfer,2022-11-01,35444.31,6.41
+888,5,668,Medical Insurance,Investment Account,2021-03-16,26963.19,
+889,5,689,Stock,UPI,2025-02-24,40584.2,4.44
+890,9,483,Vacation,Investment Account,2023-09-04,53901.53,
+891,9,215,Emergency Fund,Credit Card,2023-02-06,10857.97,5.91
+892,4,665,Emergency Fund,Investment Account,2024-02-16,89775.62,10.38
+893,8,476,Medical Insurance,Investment Account,2024-11-24,20004.36,
+894,8,956,Stock,Investment Account,2023-11-15,43083.32,11.33
+895,8,475,Vacation,Bank Transfer,2024-09-24,72293.33,
+896,2,862,Vacation,Bank Transfer,2024-07-27,78674.26,2.27
+897,1,950,Term Insurance,UPI,2022-07-19,37125.64,4.83
+898,8,957,Term Insurance,Credit Card,2023-11-01,2485.14,8.65
+899,1,843,SIP,UPI,2021-10-31,37393.76,
+900,5,463,Gold Bonds,Bank Transfer,2021-01-25,8084.46,9.6
+901,9,817,Stock,Credit Card,2023-03-23,75501.32,5.39
+902,9,313,Gold Bonds,Credit Card,2022-08-19,82361.71,5.82
+903,1,228,Term Insurance,Bank Transfer,2023-09-08,65852.53,5.37
+904,9,361,SIP,Bank Transfer,2025-02-28,87847.84,
+905,5,603,Medical Insurance,Investment Account,2024-03-17,67669.56,9.54
+906,5,520,Vacation,UPI,2020-09-13,75770.02,7.53
+907,6,538,Vacation,UPI,2020-08-27,11540.15,
+908,1,293,Emergency Fund,UPI,2023-11-30,39869.89,6.45
+909,10,369,Vacation,Credit Card,2020-07-09,56861.03,4.64
+910,7,218,Gold Bonds,Investment Account,2023-11-30,1973.17,5.89
+911,7,332,Gold Bonds,Investment Account,2023-12-14,43360.75,9.75
+912,10,1034,Medical Insurance,Investment Account,2021-07-20,75013.01,7.22
+913,3,531,Crypto,Bank Transfer,2022-07-26,31633.16,
+914,10,1035,SIP,Credit Card,2023-10-02,49989.64,11.57
+915,1,416,Emergency Fund,UPI,2021-01-30,40015.69,7.06
+916,1,228,Emergency Fund,Credit Card,2020-11-17,20356.48,11.99
+917,8,476,Emergency Fund,Bank Transfer,2020-04-07,31899.4,9.35
+918,5,1080,Medical Insurance,Credit Card,2023-07-24,9934.45,7.86
+919,1,524,Gold Bonds,Credit Card,2023-10-13,80454.9,
+920,7,510,Medical Insurance,Bank Transfer,2021-11-17,98831.95,2.62
+921,6,91,Stock,UPI,2023-07-11,35692.3,3.93
+922,9,758,Vacation,Bank Transfer,2024-11-19,72217.01,8.87
+923,4,752,Crypto,Investment Account,2023-06-02,91416.8,
+924,6,1075,Gold Bonds,Bank Transfer,2021-09-12,86988.95,11.21
+925,9,921,Crypto,UPI,2024-05-13,55132.6,
+926,7,1072,SIP,Credit Card,2023-08-07,67382.53,
+927,3,674,Medical Insurance,Credit Card,2024-04-15,2998.15,10.56
+928,10,498,SIP,UPI,2023-12-30,92647.87,8.93
+929,2,1077,Emergency Fund,Investment Account,2023-05-09,2481.21,3.56
+930,8,742,Stock,Credit Card,2024-07-12,91123.38,
+931,8,957,Medical Insurance,UPI,2023-08-31,54991.3,4.16
+932,1,524,Medical Insurance,Bank Transfer,2025-01-06,62118.52,
+933,9,482,Term Insurance,Credit Card,2022-03-11,12826.76,10.17
+934,9,482,SIP,Bank Transfer,2022-08-14,12945.72,3.08
+935,4,1001,Term Insurance,Investment Account,2024-10-19,52619.31,10.93
+936,5,689,Stock,UPI,2024-02-10,35080.1,8.17
+937,6,714,SIP,Credit Card,2024-03-07,20998.33,
+938,1,132,SIP,Credit Card,2023-11-20,96570.76,
+939,10,498,Stock,Investment Account,2024-08-17,8149.12,5.21
+940,7,1072,Stock,Credit Card,2020-06-09,24911.16,
+941,10,131,Vacation,Credit Card,2021-12-26,21421.96,2.65
+942,2,862,Emergency Fund,UPI,2022-06-29,37697.78,
+943,10,319,Crypto,Investment Account,2023-08-16,79464.11,9.1
+944,1,554,SIP,UPI,2023-02-17,21936.31,
+945,5,715,Vacation,Bank Transfer,2022-01-13,95712.83,11.61
+946,9,920,Emergency Fund,Investment Account,2022-02-24,89408.02,7.94
+947,9,220,Gold Bonds,Credit Card,2021-06-04,61897.04,
+948,6,584,Vacation,Bank Transfer,2023-01-08,94913.37,9.3
+949,8,742,Crypto,Investment Account,2024-01-10,45076.9,2.93
+950,7,409,Medical Insurance,Credit Card,2024-03-11,3038.81,11.23
+951,10,369,Term Insurance,Credit Card,2022-02-12,75332.68,2.67
+952,3,674,Stock,Credit Card,2021-07-30,51316.0,3.55
+953,6,339,Crypto,UPI,2022-08-12,88162.55,
+954,8,958,Medical Insurance,Credit Card,2024-06-02,21776.84,2.01
+955,6,141,Medical Insurance,Credit Card,2022-02-10,43649.53,10.68
+956,8,1097,Crypto,UPI,2024-12-08,2566.37,10.39
+957,10,369,Stock,Bank Transfer,2022-08-29,46276.38,7.39
+958,1,950,Crypto,UPI,2024-05-11,39467.33,2.19
+959,7,973,Medical Insurance,Investment Account,2023-02-06,63150.71,3.17
+960,6,584,SIP,Bank Transfer,2023-11-16,40051.5,2.4
+961,3,934,Vacation,Bank Transfer,2022-07-20,93486.39,7.73
+962,9,313,Emergency Fund,Credit Card,2020-09-29,5182.58,7.07
+963,7,409,Gold Bonds,Bank Transfer,2023-06-21,95483.07,
+964,9,920,Medical Insurance,Investment Account,2023-09-04,55050.51,5.61
+965,4,342,Stock,Credit Card,2020-07-04,31995.74,
+966,1,228,Crypto,Bank Transfer,2024-06-22,58035.07,7.51
+967,9,215,Medical Insurance,Investment Account,2021-10-19,2110.56,5.89
+968,9,920,Term Insurance,Investment Account,2023-02-04,19101.23,3.51
+969,10,131,Gold Bonds,Credit Card,2020-12-24,6503.22,11.55
+970,6,300,Gold Bonds,Bank Transfer,2023-11-07,46449.26,2.6
+971,4,666,Stock,Bank Transfer,2020-12-01,53455.13,8.72
+972,1,843,Term Insurance,UPI,2022-08-31,48419.02,
+973,4,752,Medical Insurance,Bank Transfer,2021-01-18,6112.99,4.43
+974,6,538,Medical Insurance,Bank Transfer,2020-09-12,31857.17,
+975,7,409,Term Insurance,UPI,2025-01-26,34025.27,5.3
+976,4,454,Crypto,Bank Transfer,2021-06-27,81687.63,
+977,2,222,Crypto,Bank Transfer,2023-07-05,71943.03,10.65
+978,5,931,Term Insurance,UPI,2023-07-02,86760.04,10.0
+979,8,958,Emergency Fund,Bank Transfer,2021-01-18,72572.38,11.25
+980,2,340,Emergency Fund,Bank Transfer,2020-12-29,54153.3,2.57
+981,1,554,Emergency Fund,Investment Account,2024-10-23,60705.77,4.02
+982,6,339,Emergency Fund,UPI,2022-05-27,85427.23,11.32
+983,9,361,Stock,UPI,2023-08-01,82373.45,8.69
+984,6,587,Medical Insurance,Bank Transfer,2021-06-11,68287.31,7.72
+985,6,88,Crypto,Credit Card,2022-02-28,11047.85,10.75
+986,8,955,SIP,UPI,2023-05-17,49613.74,10.93
+987,5,689,Emergency Fund,UPI,2020-07-20,36552.32,
+988,6,91,Emergency Fund,Bank Transfer,2024-12-18,62854.46,5.09
+989,2,340,Stock,Credit Card,2021-08-14,5065.82,
+990,4,665,SIP,Bank Transfer,2024-12-15,24363.82,9.24
+991,2,479,Vacation,Bank Transfer,2022-07-01,78958.74,8.6
+992,5,668,Medical Insurance,Credit Card,2023-10-03,23119.03,
+993,7,973,Stock,UPI,2023-10-15,48345.05,
+994,1,554,Gold Bonds,Bank Transfer,2023-06-26,78276.41,
+995,10,564,Emergency Fund,Bank Transfer,2022-10-27,44629.76,6.86
+996,1,293,Crypto,UPI,2023-09-06,91088.38,4.82
+997,9,482,Crypto,Investment Account,2023-11-03,48703.63,
+998,10,101,Emergency Fund,Investment Account,2023-09-09,72352.35,
+999,8,955,Emergency Fund,Investment Account,2021-05-20,66893.78,11.33
+1000,5,689,Crypto,Credit Card,2021-08-26,58547.47,10.08

@@ -1,0 +1,43 @@
+Income_ID,Client_ID,Source,Amount,Income_Date,Category,Payment_Method
+1,1,Salary,39095.97,2025-01-31,Active,Bank Transfer
+2,1,Rental Income,43771.41,2020-07-23,Active,
+3,1,Salary,16152.51,2022-06-18,Bonus,Cash
+4,1,Rental Income,6372.95,2023-04-14,Passive,Bank Transfer
+5,2,Investments,41158.82,2021-12-25,Bonus,Bank Transfer
+6,2,Investments,8597.82,2024-05-08,Active,
+7,2,Investments,25028.13,2021-11-12,Active,Bank Transfer
+8,2,Investments,25028.13,2021-11-12,Active,Bank Transfer
+9,3,Freelancing,48463.92,2022-06-01,Active,Bank Transfer
+10,3,Investments,49203.38,2024-04-20,Bonus,Bank Transfer
+11,3,Salary,17707.05,2022-06-06,Bonus,PayPal
+12,3,Rental Income,38906.61,2022-07-21,Passive,
+13,4,Investments,9672.36,2023-05-15,Passive,PayPal
+14,4,Investments,29994.04,2022-07-01,Bonus,Cash
+15,4,Business,40556.67,2024-01-30,Bonus,PayPal
+16,4,Investments,28414.01,2020-03-09,Passive,Cash
+17,4,Investments,28414.01,2020-03-09,Passive,Cash
+18,5,Rental Income,5087.18,2023-01-22,Bonus,Bank Transfer
+19,5,Salary,47170.51,2022-09-05,Bonus,
+20,5,Investments,46355.67,2022-10-23,Bonus,
+21,5,Business,39711.07,2022-05-11,Active,Cash
+22,6,Business,33999.39,2020-12-12,Passive,PayPal
+23,6,Freelancing,30081.05,2021-08-03,Passive,
+24,6,Rental Income,36035.0,2023-09-28,Active,PayPal
+25,7,Investments,49840.63,2020-09-08,Passive,Bank Transfer
+26,7,Investments,49840.63,2020-09-08,Passive,Bank Transfer
+27,7,Freelancing,28594.31,2021-01-16,Bonus,Bank Transfer
+28,7,Rental Income,46745.0,2022-09-17,Active,Bank Transfer
+29,8,Business,25234.42,2022-10-07,Active,Bank Transfer
+30,8,Investments,28012.29,2021-08-19,Bonus,Cash
+31,8,Rental Income,28270.62,2021-05-02,Active,
+32,8,Rental Income,28270.62,2021-05-02,Active,
+33,8,Investments,22885.23,2023-08-08,Bonus,PayPal
+34,8,Investments,22885.23,2023-08-08,Bonus,PayPal
+35,9,Rental Income,29291.51,2020-11-09,Passive,Bank Transfer
+36,9,Freelancing,38200.8,2021-08-01,Bonus,Cash
+37,9,Salary,28652.83,2022-06-08,Active,Cash
+38,9,Rental Income,14585.05,2024-03-03,Passive,PayPal
+39,10,Freelancing,8168.11,2021-03-01,Active,PayPal
+40,10,Investments,26637.82,2023-07-20,Passive,PayPal
+41,10,Business,8997.82,2023-07-07,Active,Bank Transfer
+42,10,Investments,22592.77,2021-12-28,Active,Cash

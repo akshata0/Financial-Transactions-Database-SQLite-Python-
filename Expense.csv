@@ -1,0 +1,1102 @@
+Expense_ID,Client_ID,Category,Expense_Date,Amount,Payment_Method,Priority_Level
+1,3,Netflix Subscription,2023-06-22,12672.61,Bank Transfer,Non-Essential
+2,2,Rent,2023-11-27,12096.63,,Essential
+3,3,EMI,2023-10-28,46247.04,Cash,Essential
+4,10,Other,2021-11-13,39305.87,Credit Card,Other
+5,10,Groceries,2023-12-12,39881.94,,Essential
+6,10,School Fee,2023-10-10,3427.67,Credit Card,Essential
+7,10,Income Tax,2023-05-16,10872.95,UPI,Essential
+8,10,Income Tax,2023-05-16,10872.95,UPI,Essential
+9,8,Water Bill,2022-05-07,629.49,,Essential
+10,8,Water Bill,2022-05-07,629.49,,Essential
+11,3,Groceries,2021-03-24,20976.17,UPI,Essential
+12,3,Groceries,2021-03-24,20976.17,UPI,Essential
+13,7,EMI,2024-04-26,28469.17,,Essential
+14,4,School Fee,2020-05-09,19846.82,UPI,Essential
+15,4,School Fee,2020-05-09,19846.82,UPI,Essential
+16,10,EMI,2023-09-02,42042.96,Bank Transfer,Essential
+17,4,Car Loan,2020-06-04,30384.19,,Essential
+18,7,School Fee,2024-06-15,38651.34,Bank Transfer,Essential
+19,8,Water Bill,2022-05-18,42347.73,Credit Card,Essential
+20,3,EMI,2020-08-21,19707.87,UPI,Essential
+21,3,EMI,2023-10-04,11522.87,UPI,Essential
+22,9,Income Tax,2021-09-17,2331.03,Credit Card,Essential
+23,9,Income Tax,2021-09-17,2331.03,Credit Card,Essential
+24,7,School Fee,2022-05-23,29946.7,Bank Transfer,Essential
+25,5,Electricity Bill,2023-07-15,8869.36,,Essential
+26,2,Gym,2022-03-12,11356.29,UPI,Non-Essential
+27,2,Rent,2024-10-02,7005.45,,Essential
+28,6,Electricity Bill,2024-10-04,49343.97,Cash,Essential
+29,2,Rent,2023-01-14,29302.62,Credit Card,Essential
+30,6,Electricity Bill,2021-04-04,34032.1,,Essential
+31,3,Netflix Subscription,2022-12-08,48004.13,Credit Card,Non-Essential
+32,3,Other,2020-06-22,7515.08,Bank Transfer,Other
+33,7,Other,2021-11-07,8548.68,Bank Transfer,Other
+34,10,Other,2021-07-21,17404.88,Bank Transfer,Other
+35,10,Other,2021-07-21,17404.88,Bank Transfer,Other
+36,5,Other,2023-01-07,12643.99,Credit Card,Other
+37,9,Car Loan,2023-05-23,19710.55,UPI,Essential
+38,10,Other,2020-07-09,11446.27,Cash,Other
+39,10,Water Bill,2022-10-16,24439.57,Credit Card,Essential
+40,10,Water Bill,2022-10-16,24439.57,Credit Card,Essential
+41,1,Netflix Subscription,2024-08-31,18870.34,,Non-Essential
+42,1,Netflix Subscription,2024-08-31,18870.34,,Non-Essential
+43,8,School Fee,2023-01-22,47502.79,Bank Transfer,Essential
+44,8,Income Tax,2022-04-27,30463.46,,Essential
+45,2,Savings,2023-12-21,38411.35,,Other
+46,9,Gym,2022-05-15,45330.04,Credit Card,Non-Essential
+47,9,Electricity Bill,2021-06-27,25880.47,UPI,Essential
+48,8,Gym,2021-12-31,41777.64,Bank Transfer,Non-Essential
+49,1,Income Tax,2023-02-07,41260.19,Bank Transfer,Essential
+50,9,Gym,2022-02-23,40305.5,Credit Card,Non-Essential
+51,4,Rent,2024-01-30,18548.11,Bank Transfer,Essential
+52,9,Other,2023-11-02,30178.92,Bank Transfer,Other
+53,10,Car Loan,2024-01-25,7751.13,UPI,Essential
+54,7,Electricity Bill,2023-08-31,9220.29,Cash,Essential
+55,5,Electricity Bill,2024-05-05,43746.23,,Essential
+56,4,Income Tax,2025-02-10,15514.5,Credit Card,Essential
+57,6,Groceries,2022-09-25,41718.17,,Essential
+58,9,Electricity Bill,2020-09-24,39248.62,Bank Transfer,Essential
+59,10,Water Bill,2022-04-16,31724.51,,Essential
+60,2,EMI,2023-07-29,12016.5,Bank Transfer,Essential
+61,3,Gym,2024-06-10,45000.11,Credit Card,Non-Essential
+62,1,Savings,2023-09-14,5885.85,Bank Transfer,Other
+63,1,Income Tax,2022-06-02,8942.52,Bank Transfer,Essential
+64,5,Rent,2022-02-05,3876.06,Credit Card,Essential
+65,7,School Fee,2020-06-22,1979.45,Bank Transfer,Essential
+66,1,Groceries,2020-06-27,43979.57,Credit Card,Essential
+67,3,Gym,2024-06-05,4472.74,,Non-Essential
+68,6,Groceries,2020-05-04,8714.84,,Essential
+69,8,Netflix Subscription,2023-07-07,40355.32,Cash,Non-Essential
+70,7,Income Tax,2024-07-01,28017.0,,Essential
+71,7,Income Tax,2024-07-01,28017.0,,Essential
+72,3,Rent,2024-06-11,4267.65,,Essential
+73,5,Electricity Bill,2024-07-09,33136.45,,Essential
+74,1,Rent,2023-03-31,38026.13,Bank Transfer,Essential
+75,10,EMI,2022-06-12,21574.94,Bank Transfer,Essential
+76,10,EMI,2022-06-12,21574.94,Bank Transfer,Essential
+77,3,Netflix Subscription,2024-12-22,24769.85,Bank Transfer,Non-Essential
+78,5,Electricity Bill,2021-06-22,4948.23,Cash,Essential
+79,8,Netflix Subscription,2021-01-03,27647.5,UPI,Non-Essential
+80,8,Netflix Subscription,2021-01-03,27647.5,UPI,Non-Essential
+81,8,Income Tax,2023-12-03,28145.94,Cash,Essential
+82,7,Other,2021-10-26,41864.84,Bank Transfer,Other
+83,7,Car Loan,2023-09-01,32443.22,Cash,Essential
+84,10,Other,2024-04-04,18937.12,Cash,Other
+85,9,Car Loan,2023-01-29,47176.02,,Essential
+86,5,Water Bill,2025-01-06,29394.81,Credit Card,Essential
+87,6,Groceries,2021-04-08,47418.13,UPI,Essential
+88,6,Savings,2022-09-10,43238.45,Bank Transfer,Other
+89,2,Income Tax,2022-02-13,28932.14,Cash,Essential
+90,7,Netflix Subscription,2023-12-26,18606.67,Credit Card,Non-Essential
+91,6,Savings,2022-09-29,28765.26,Cash,Other
+92,3,Electricity Bill,2020-06-27,15660.59,UPI,Essential
+93,6,EMI,2023-01-13,24877.51,Cash,Essential
+94,4,Other,2020-03-29,28943.07,Bank Transfer,Other
+95,5,Gym,2022-08-30,32454.55,Credit Card,Non-Essential
+96,2,Car Loan,2022-12-01,18751.25,Bank Transfer,Essential
+97,4,Income Tax,2020-09-08,44427.62,Credit Card,Essential
+98,7,Groceries,2022-10-22,1818.74,,Essential
+99,1,Netflix Subscription,2023-03-15,48668.28,Credit Card,Non-Essential
+100,8,Electricity Bill,2023-04-28,8478.02,Bank Transfer,Essential
+101,10,Savings,2024-04-11,26428.25,Cash,Other
+102,6,Other,2020-10-06,25816.15,Bank Transfer,Other
+103,2,Groceries,2022-07-24,27307.88,Cash,Essential
+104,1,Other,2021-03-24,47085.32,Bank Transfer,Other
+105,5,Gym,2023-04-29,26229.69,,Non-Essential
+106,2,Income Tax,2023-08-27,48490.96,,Essential
+107,2,Savings,2020-03-10,23361.23,Credit Card,Other
+108,1,Income Tax,2023-01-06,48780.31,UPI,Essential
+109,1,Income Tax,2023-01-06,48780.31,UPI,Essential
+110,2,Gym,2023-06-24,44970.68,Credit Card,Non-Essential
+111,3,Rent,2021-03-02,19224.98,Cash,Essential
+112,5,Income Tax,2021-08-27,41548.29,UPI,Essential
+113,7,School Fee,2023-11-26,21441.65,Cash,Essential
+114,9,Gym,2021-02-11,40596.96,Cash,Non-Essential
+115,6,Water Bill,2024-04-25,25471.96,Bank Transfer,Essential
+116,8,Gym,2021-10-17,49080.85,Credit Card,Non-Essential
+117,8,Gym,2021-10-17,49080.85,Credit Card,Non-Essential
+118,6,Income Tax,2020-08-27,618.38,Bank Transfer,Essential
+119,6,Income Tax,2020-08-27,618.38,Bank Transfer,Essential
+120,7,Rent,2021-08-05,19009.29,Bank Transfer,Essential
+121,9,Water Bill,2025-03-01,14854.28,Cash,Essential
+122,8,EMI,2023-02-23,39821.72,Bank Transfer,Essential
+123,3,Gym,2022-07-08,6374.95,Cash,Non-Essential
+124,7,Netflix Subscription,2024-02-04,31156.69,Cash,Non-Essential
+125,2,EMI,2024-08-30,24177.71,,Essential
+126,7,EMI,2023-04-17,46197.45,Bank Transfer,Essential
+127,9,EMI,2022-10-11,23641.38,Bank Transfer,Essential
+128,6,Netflix Subscription,2020-12-01,36475.44,Cash,Non-Essential
+129,6,Netflix Subscription,2021-05-06,28903.67,UPI,Non-Essential
+130,6,Rent,2024-10-03,23520.7,Cash,Essential
+131,10,Savings,2022-05-14,1757.09,,Other
+132,1,Savings,2024-06-16,42868.93,,Other
+133,1,Other,2023-10-06,39824.81,Credit Card,Other
+134,1,Other,2023-10-06,39824.81,Credit Card,Other
+135,2,Income Tax,2023-12-19,46716.95,Cash,Essential
+136,2,Other,2023-11-07,47930.14,Credit Card,Other
+137,2,Car Loan,2021-04-05,44844.62,,Essential
+138,4,Savings,2022-12-12,17057.03,Cash,Other
+139,2,Gym,2024-02-01,28066.26,Bank Transfer,Non-Essential
+140,1,Rent,2024-11-14,42063.72,Cash,Essential
+141,6,Savings,2021-06-17,27988.26,UPI,Other
+142,3,Groceries,2022-07-14,10137.29,UPI,Essential
+143,8,Electricity Bill,2020-03-28,6464.53,,Essential
+144,8,Electricity Bill,2020-03-28,6464.53,,Essential
+145,6,Other,2022-06-03,3810.56,Bank Transfer,Other
+146,9,Income Tax,2021-02-16,34792.24,UPI,Essential
+147,1,School Fee,2022-11-24,12907.99,UPI,Essential
+148,7,EMI,2021-09-09,18433.2,Credit Card,Essential
+149,7,Groceries,2020-06-09,9170.73,Cash,Essential
+150,4,Rent,2023-05-21,7999.45,,Essential
+151,8,Income Tax,2021-10-31,39189.02,Cash,Essential
+152,2,Rent,2024-06-15,49954.51,UPI,Essential
+153,1,EMI,2020-03-25,34745.82,,Essential
+154,1,School Fee,2021-09-27,35197.53,Cash,Essential
+155,10,Rent,2022-06-23,44706.54,,Essential
+156,7,Income Tax,2023-07-15,37935.1,UPI,Essential
+157,10,Water Bill,2021-11-17,34786.2,UPI,Essential
+158,1,Car Loan,2022-07-09,38423.33,Bank Transfer,Essential
+159,1,Gym,2023-01-11,23351.31,Cash,Non-Essential
+160,10,Income Tax,2024-03-13,4070.59,Bank Transfer,Essential
+161,7,Electricity Bill,2020-09-11,46198.11,Credit Card,Essential
+162,8,EMI,2024-10-15,47981.16,Cash,Essential
+163,3,EMI,2021-08-31,42379.75,,Essential
+164,4,Netflix Subscription,2021-05-01,6690.38,Credit Card,Non-Essential
+165,4,Rent,2022-07-01,20598.53,UPI,Essential
+166,5,Income Tax,2022-11-23,30638.08,Cash,Essential
+167,9,EMI,2023-10-11,28357.21,Credit Card,Essential
+168,2,School Fee,2021-09-14,39521.55,Credit Card,Essential
+169,7,Gym,2022-03-26,28589.54,Credit Card,Non-Essential
+170,3,Groceries,2022-10-10,34674.9,UPI,Essential
+171,6,EMI,2023-07-03,44044.53,,Essential
+172,8,Savings,2023-11-24,34270.58,,Other
+173,1,Electricity Bill,2020-03-08,19028.01,Credit Card,Essential
+174,8,EMI,2023-09-09,27247.41,,Essential
+175,2,Groceries,2024-06-17,46611.78,Credit Card,Essential
+176,7,Car Loan,2023-11-21,5578.88,,Essential
+177,1,Savings,2023-09-11,37390.5,,Other
+178,2,Car Loan,2021-10-07,9312.1,UPI,Essential
+179,6,Electricity Bill,2022-10-31,20219.8,Cash,Essential
+180,7,Electricity Bill,2022-10-03,40338.38,Credit Card,Essential
+181,6,Gym,2022-04-14,46220.59,,Non-Essential
+182,6,Gym,2022-04-14,46220.59,,Non-Essential
+183,2,EMI,2025-01-08,22787.36,UPI,Essential
+184,6,Netflix Subscription,2024-07-15,11257.07,Bank Transfer,Non-Essential
+185,1,Water Bill,2023-02-23,44526.08,UPI,Essential
+186,1,Income Tax,2020-06-25,21317.66,Credit Card,Essential
+187,7,Groceries,2024-04-22,47002.86,UPI,Essential
+188,2,Groceries,2021-09-19,19085.17,Cash,Essential
+189,3,Other,2024-11-26,30921.14,UPI,Other
+190,8,Groceries,2024-10-25,39608.97,,Essential
+191,2,Electricity Bill,2021-04-10,15089.27,UPI,Essential
+192,2,Electricity Bill,2021-04-10,15089.27,UPI,Essential
+193,10,EMI,2025-02-23,3513.31,UPI,Essential
+194,10,EMI,2025-02-23,3513.31,UPI,Essential
+195,8,Water Bill,2020-06-12,10557.92,,Essential
+196,7,Water Bill,2021-05-22,10550.89,Credit Card,Essential
+197,9,Netflix Subscription,2020-04-10,19739.35,,Non-Essential
+198,10,EMI,2020-12-18,46564.8,Cash,Essential
+199,2,Water Bill,2024-10-07,27666.21,UPI,Essential
+200,3,Netflix Subscription,2023-05-02,29959.69,,Non-Essential
+201,8,Other,2023-12-19,10346.2,Cash,Other
+202,4,Income Tax,2022-12-29,25298.04,Bank Transfer,Essential
+203,7,Income Tax,2023-02-18,37696.67,Cash,Essential
+204,7,Income Tax,2023-02-18,37696.67,Cash,Essential
+205,5,EMI,2023-05-11,28840.61,Bank Transfer,Essential
+206,5,EMI,2023-05-11,28840.61,Bank Transfer,Essential
+207,7,Groceries,2020-04-11,34692.48,Cash,Essential
+208,10,Groceries,2024-06-23,28302.16,Cash,Essential
+209,10,Groceries,2024-06-25,31170.08,Bank Transfer,Essential
+210,10,Other,2020-09-22,32213.15,,Other
+211,3,School Fee,2024-10-24,12418.83,Bank Transfer,Essential
+212,1,School Fee,2021-11-25,4999.28,UPI,Essential
+213,5,Other,2024-01-21,8933.5,Bank Transfer,Other
+214,8,Groceries,2023-10-19,44347.55,Bank Transfer,Essential
+215,9,Savings,2024-05-26,45418.56,Bank Transfer,Other
+216,4,Netflix Subscription,2021-10-18,23520.34,Cash,Non-Essential
+217,1,School Fee,2024-10-28,17922.57,Cash,Essential
+218,7,Savings,2022-06-27,37654.46,Bank Transfer,Other
+219,2,Netflix Subscription,2021-10-10,10617.48,Cash,Non-Essential
+220,9,Savings,2020-03-25,23612.38,Cash,Other
+221,8,Electricity Bill,2023-03-05,12313.39,Bank Transfer,Essential
+222,2,Savings,2023-07-17,43062.43,UPI,Other
+223,8,Gym,2020-05-15,27887.15,Bank Transfer,Non-Essential
+224,8,Car Loan,2020-10-14,9084.25,Credit Card,Essential
+225,8,Car Loan,2020-10-14,9084.25,Credit Card,Essential
+226,2,Netflix Subscription,2022-03-27,32200.94,Cash,Non-Essential
+227,10,Car Loan,2024-07-31,12561.96,Bank Transfer,Essential
+228,1,Savings,2023-02-18,6343.39,Cash,Other
+229,1,Car Loan,2025-01-19,29131.32,Bank Transfer,Essential
+230,9,Car Loan,2025-01-06,22062.04,UPI,Essential
+231,8,Car Loan,2021-12-08,34511.21,Cash,Essential
+232,9,EMI,2020-12-20,29958.77,UPI,Essential
+233,6,Gym,2024-07-30,28648.77,UPI,Non-Essential
+234,9,Rent,2022-12-01,4857.31,Bank Transfer,Essential
+235,9,Rent,2022-12-01,4857.31,Bank Transfer,Essential
+236,10,Income Tax,2022-03-28,47172.34,,Essential
+237,10,Income Tax,2022-03-28,47172.34,,Essential
+238,5,Water Bill,2020-09-28,6581.22,Cash,Essential
+239,5,Water Bill,2020-09-28,6581.22,Cash,Essential
+240,4,EMI,2025-01-15,14815.64,Bank Transfer,Essential
+241,2,EMI,2023-03-11,10146.07,,Essential
+242,9,Water Bill,2020-03-26,45129.21,,Essential
+243,9,Water Bill,2020-03-26,45129.21,,Essential
+244,1,EMI,2023-05-26,12722.4,,Essential
+245,8,Netflix Subscription,2022-07-14,28239.38,Bank Transfer,Non-Essential
+246,1,School Fee,2020-05-27,4243.6,UPI,Essential
+247,1,School Fee,2020-05-27,4243.6,UPI,Essential
+248,6,EMI,2022-04-30,27485.48,UPI,Essential
+249,1,Electricity Bill,2020-07-06,18895.29,Credit Card,Essential
+250,8,Rent,2022-04-12,45061.84,UPI,Essential
+251,10,Netflix Subscription,2023-01-14,15408.8,UPI,Non-Essential
+252,5,Other,2024-10-23,26947.01,Credit Card,Other
+253,1,Water Bill,2021-01-05,11242.79,Bank Transfer,Essential
+254,5,School Fee,2022-03-10,38011.88,Bank Transfer,Essential
+255,4,Electricity Bill,2020-12-26,43852.55,UPI,Essential
+256,8,Electricity Bill,2021-03-19,24717.99,Cash,Essential
+257,6,Netflix Subscription,2020-04-13,32045.96,Bank Transfer,Non-Essential
+258,2,Water Bill,2022-04-11,8548.44,,Essential
+259,1,Groceries,2022-10-28,2134.75,,Essential
+260,3,Groceries,2020-10-20,2635.19,Credit Card,Essential
+261,7,Rent,2023-04-14,42919.95,Bank Transfer,Essential
+262,3,Water Bill,2021-10-29,41332.39,Bank Transfer,Essential
+263,10,EMI,2022-08-28,26789.68,,Essential
+264,6,Electricity Bill,2020-03-31,27998.59,Bank Transfer,Essential
+265,5,Gym,2023-05-26,26588.88,Credit Card,Non-Essential
+266,6,EMI,2020-10-02,42264.08,Cash,Essential
+267,6,Other,2024-09-09,10582.27,Cash,Other
+268,2,Savings,2020-03-15,19941.07,UPI,Other
+269,3,Water Bill,2021-05-13,11674.71,Credit Card,Essential
+270,9,Netflix Subscription,2024-10-03,42271.92,Credit Card,Non-Essential
+271,8,Other,2024-12-13,2624.87,Credit Card,Other
+272,1,School Fee,2024-08-23,31996.29,,Essential
+273,3,Rent,2020-10-03,14562.02,Bank Transfer,Essential
+274,3,Income Tax,2024-09-12,11710.02,Credit Card,Essential
+275,6,EMI,2021-02-14,40336.06,Cash,Essential
+276,6,Netflix Subscription,2024-11-27,13995.9,Cash,Non-Essential
+277,6,Rent,2022-04-20,26888.13,Credit Card,Essential
+278,1,Netflix Subscription,2023-12-14,48170.31,Cash,Non-Essential
+279,8,Water Bill,2023-04-05,22057.83,Cash,Essential
+280,9,Other,2022-07-07,6307.29,Bank Transfer,Other
+281,1,Car Loan,2021-04-13,30036.33,UPI,Essential
+282,6,Groceries,2022-01-22,1019.4,Credit Card,Essential
+283,5,Electricity Bill,2020-11-30,45968.05,Cash,Essential
+284,7,Electricity Bill,2021-11-14,19567.88,Cash,Essential
+285,9,Other,2023-05-24,35186.42,Bank Transfer,Other
+286,8,School Fee,2022-06-20,11658.12,Cash,Essential
+287,8,Rent,2023-08-28,24417.83,,Essential
+288,4,Netflix Subscription,2024-05-11,44157.19,Cash,Non-Essential
+289,1,Gym,2023-12-19,8674.45,Bank Transfer,Non-Essential
+290,9,Electricity Bill,2020-12-06,49907.26,Credit Card,Essential
+291,7,Gym,2023-12-24,35290.61,Credit Card,Non-Essential
+292,8,Car Loan,2023-02-02,43745.27,,Essential
+293,1,Savings,2022-06-23,27254.83,Bank Transfer,Other
+294,8,Netflix Subscription,2024-02-27,33160.87,Credit Card,Non-Essential
+295,8,Netflix Subscription,2024-02-27,33160.87,Credit Card,Non-Essential
+296,1,Other,2023-08-08,13435.36,Cash,Other
+297,1,Other,2023-08-08,13435.36,Cash,Other
+298,1,Other,2021-12-05,11313.69,Credit Card,Other
+299,5,EMI,2023-03-11,25168.34,UPI,Essential
+300,6,Savings,2025-02-27,25527.36,Bank Transfer,Other
+301,2,Gym,2024-03-16,10719.76,Cash,Non-Essential
+302,9,Savings,2020-09-16,8197.36,,Other
+303,6,Income Tax,2024-08-30,39832.48,Bank Transfer,Essential
+304,4,Electricity Bill,2021-10-09,3662.26,Cash,Essential
+305,4,School Fee,2024-07-08,43332.19,,Essential
+306,5,Rent,2022-03-14,42359.21,UPI,Essential
+307,5,Gym,2023-10-24,4051.32,Cash,Non-Essential
+308,1,Other,2022-12-07,46285.45,,Other
+309,4,Electricity Bill,2021-07-11,12011.2,Credit Card,Essential
+310,8,EMI,2020-10-06,5903.4,Cash,Essential
+311,3,Car Loan,2022-01-18,25555.34,Cash,Essential
+312,4,Gym,2020-08-08,37095.06,UPI,Non-Essential
+313,9,Savings,2020-04-17,4951.56,,Other
+314,3,School Fee,2024-10-23,1210.98,Credit Card,Essential
+315,3,School Fee,2024-10-23,1210.98,Credit Card,Essential
+316,1,Groceries,2023-11-23,23229.01,,Essential
+317,1,Groceries,2023-11-23,23229.01,,Essential
+318,7,Netflix Subscription,2021-09-15,6378.57,,Non-Essential
+319,10,Savings,2023-02-25,26808.59,Credit Card,Other
+320,2,Car Loan,2021-03-14,4618.8,Bank Transfer,Essential
+321,3,Water Bill,2022-05-22,2705.37,UPI,Essential
+322,10,EMI,2024-01-06,42852.06,,Essential
+323,10,Other,2021-03-24,14237.9,Cash,Other
+324,8,Income Tax,2024-01-29,24040.21,UPI,Essential
+325,8,Income Tax,2024-01-29,24040.21,UPI,Essential
+326,5,Gym,2020-08-27,42811.81,Credit Card,Non-Essential
+327,6,EMI,2024-05-05,15258.14,Cash,Essential
+328,1,Gym,2020-11-29,26793.6,,Non-Essential
+329,5,Income Tax,2021-11-25,33986.11,,Essential
+330,2,Electricity Bill,2022-01-20,24412.2,,Essential
+331,6,Rent,2022-05-31,31705.42,UPI,Essential
+332,7,Savings,2024-04-19,41728.06,Bank Transfer,Other
+333,1,Netflix Subscription,2022-07-22,14702.87,Credit Card,Non-Essential
+334,1,Water Bill,2022-06-25,44006.65,Credit Card,Essential
+335,1,Water Bill,2022-06-25,44006.65,Credit Card,Essential
+336,2,Rent,2025-02-04,15444.64,UPI,Essential
+337,3,School Fee,2022-05-31,45291.4,UPI,Essential
+338,9,Water Bill,2020-08-31,6108.58,Bank Transfer,Essential
+339,6,Savings,2023-01-25,44577.55,Credit Card,Other
+340,2,Savings,2022-01-10,8290.72,UPI,Other
+341,4,School Fee,2024-04-08,35320.72,Cash,Essential
+342,4,Savings,2024-02-27,33254.85,UPI,Other
+343,6,Groceries,2020-11-23,46552.42,Cash,Essential
+344,6,Groceries,2020-11-23,46552.42,Cash,Essential
+345,3,Netflix Subscription,2022-01-23,35785.79,,Non-Essential
+346,3,Netflix Subscription,2022-01-23,35785.79,,Non-Essential
+347,2,Savings,2020-03-13,30421.58,Credit Card,Other
+348,7,Car Loan,2022-09-17,43281.19,Bank Transfer,Essential
+349,8,Electricity Bill,2023-04-01,14394.84,Cash,Essential
+350,3,Income Tax,2023-02-11,6782.93,,Essential
+351,5,Electricity Bill,2023-08-30,48311.81,Cash,Essential
+352,1,Income Tax,2023-10-18,41454.26,Credit Card,Essential
+353,2,Rent,2024-12-22,23182.44,Cash,Essential
+354,7,Rent,2022-04-03,26603.94,UPI,Essential
+355,7,Rent,2022-04-03,26603.94,UPI,Essential
+356,9,Gym,2024-08-19,43125.52,Credit Card,Non-Essential
+357,4,Gym,2022-02-21,46971.05,Bank Transfer,Non-Essential
+358,10,Gym,2021-11-22,22992.54,,Non-Essential
+359,10,Groceries,2021-08-20,38333.16,UPI,Essential
+360,10,Groceries,2021-08-20,38333.16,UPI,Essential
+361,9,Savings,2024-02-11,44069.81,Cash,Other
+362,5,Rent,2024-02-07,31499.47,UPI,Essential
+363,3,Income Tax,2024-06-18,5814.63,Bank Transfer,Essential
+364,3,Income Tax,2022-12-29,37674.06,,Essential
+365,3,Income Tax,2022-12-29,37674.06,,Essential
+366,5,Rent,2022-05-20,10852.1,Credit Card,Essential
+367,3,Groceries,2023-03-26,26878.55,Cash,Essential
+368,8,Car Loan,2021-11-19,45743.67,Cash,Essential
+369,10,Savings,2021-07-14,14762.6,Credit Card,Other
+370,7,EMI,2024-10-21,40911.06,Cash,Essential
+371,6,Electricity Bill,2020-09-23,1076.47,Bank Transfer,Essential
+372,6,Electricity Bill,2020-09-23,1076.47,Bank Transfer,Essential
+373,8,Water Bill,2021-07-13,28619.43,Credit Card,Essential
+374,8,Water Bill,2021-07-13,28619.43,Credit Card,Essential
+375,10,EMI,2022-09-25,6537.76,Credit Card,Essential
+376,3,Rent,2020-04-28,48268.08,UPI,Essential
+377,9,Netflix Subscription,2021-04-11,31305.17,Bank Transfer,Non-Essential
+378,3,Water Bill,2023-08-28,20119.93,Credit Card,Essential
+379,3,Gym,2020-08-26,5678.29,Cash,Non-Essential
+380,7,Rent,2024-04-17,45601.33,,Essential
+381,1,Car Loan,2021-09-24,39316.5,Cash,Essential
+382,2,Car Loan,2020-09-20,19272.41,,Essential
+383,6,Groceries,2024-08-01,41385.27,,Essential
+384,9,Other,2021-10-18,32559.46,Credit Card,Other
+385,6,Gym,2023-01-29,47192.8,,Non-Essential
+386,2,Other,2021-11-10,31090.68,,Other
+387,9,Netflix Subscription,2021-05-04,13537.8,Bank Transfer,Non-Essential
+388,7,Income Tax,2020-11-10,35730.24,Cash,Essential
+389,7,Income Tax,2020-11-10,35730.24,Cash,Essential
+390,8,Netflix Subscription,2021-03-31,6197.56,UPI,Non-Essential
+391,9,Other,2024-09-14,18001.11,Bank Transfer,Other
+392,2,Water Bill,2022-04-03,4073.57,Bank Transfer,Essential
+393,7,Other,2020-05-16,41993.85,UPI,Other
+394,7,Other,2020-05-16,41993.85,UPI,Other
+395,7,School Fee,2023-11-12,22925.29,Credit Card,Essential
+396,9,Income Tax,2020-03-19,11673.44,Bank Transfer,Essential
+397,9,Income Tax,2020-03-19,11673.44,Bank Transfer,Essential
+398,8,Groceries,2024-02-12,5159.46,UPI,Essential
+399,7,Electricity Bill,2022-04-17,39116.09,Bank Transfer,Essential
+400,4,Gym,2022-02-08,25040.64,,Non-Essential
+401,5,Other,2020-06-14,7899.55,Bank Transfer,Other
+402,5,Other,2020-06-14,7899.55,Bank Transfer,Other
+403,4,Electricity Bill,2020-07-11,16160.27,Credit Card,Essential
+404,5,Car Loan,2021-08-13,4403.84,Credit Card,Essential
+405,3,Rent,2020-03-11,20478.81,Cash,Essential
+406,1,Electricity Bill,2024-02-07,45326.94,UPI,Essential
+407,1,Electricity Bill,2024-02-07,45326.94,UPI,Essential
+408,3,Car Loan,2020-12-14,21815.54,Cash,Essential
+409,7,Savings,2021-09-26,10585.18,Bank Transfer,Other
+410,10,Rent,2024-02-13,5436.98,Credit Card,Essential
+411,4,Other,2022-09-05,45400.73,UPI,Other
+412,10,Income Tax,2024-07-12,23728.16,,Essential
+413,1,Rent,2020-08-23,24490.56,Cash,Essential
+414,1,EMI,2020-06-26,25506.91,Cash,Essential
+415,10,Electricity Bill,2023-03-31,42777.41,Cash,Essential
+416,1,Savings,2024-12-07,12170.08,Bank Transfer,Other
+417,4,Gym,2024-01-10,18023.89,Credit Card,Non-Essential
+418,7,Electricity Bill,2024-07-24,34842.12,Cash,Essential
+419,3,Income Tax,2023-04-28,48632.08,Bank Transfer,Essential
+420,1,Water Bill,2021-06-12,1506.99,Credit Card,Essential
+421,3,Income Tax,2022-11-22,12016.24,Cash,Essential
+422,9,EMI,2021-12-07,35579.39,Credit Card,Essential
+423,7,EMI,2024-07-20,32805.12,,Essential
+424,8,Groceries,2022-04-24,46565.98,Bank Transfer,Essential
+425,9,Groceries,2020-10-19,4345.39,,Essential
+426,10,School Fee,2022-01-27,30605.24,,Essential
+427,8,Income Tax,2021-09-11,31492.99,Bank Transfer,Essential
+428,8,Income Tax,2021-09-11,31492.99,Bank Transfer,Essential
+429,5,Rent,2020-04-29,13988.6,UPI,Essential
+430,1,Water Bill,2020-07-08,37604.59,UPI,Essential
+431,1,Water Bill,2020-07-08,37604.59,UPI,Essential
+432,1,EMI,2022-09-25,37195.66,,Essential
+433,6,Rent,2022-12-31,29726.81,,Essential
+434,9,Netflix Subscription,2022-04-15,16157.54,,Non-Essential
+435,4,Netflix Subscription,2020-11-16,28152.27,Cash,Non-Essential
+436,7,Netflix Subscription,2020-05-27,44595.61,Cash,Non-Essential
+437,1,Electricity Bill,2024-01-03,42419.37,Credit Card,Essential
+438,2,Electricity Bill,2021-08-18,2636.84,UPI,Essential
+439,2,School Fee,2021-07-10,26316.63,Bank Transfer,Essential
+440,1,Electricity Bill,2025-01-04,1321.77,Cash,Essential
+441,5,Rent,2025-01-10,28711.1,Credit Card,Essential
+442,8,Groceries,2024-01-29,29874.05,,Essential
+443,8,Car Loan,2025-01-29,49228.88,Cash,Essential
+444,4,School Fee,2021-06-06,5389.01,UPI,Essential
+445,6,Netflix Subscription,2020-11-11,39848.15,UPI,Non-Essential
+446,7,Car Loan,2023-01-01,3619.11,UPI,Essential
+447,10,Income Tax,2024-10-28,15269.05,,Essential
+448,6,Other,2023-12-30,6192.44,Credit Card,Other
+449,6,Other,2023-12-30,6192.44,Credit Card,Other
+450,6,Electricity Bill,2024-08-02,17754.76,Credit Card,Essential
+451,5,Rent,2020-10-05,8924.8,Credit Card,Essential
+452,7,School Fee,2023-07-06,26365.29,Cash,Essential
+453,3,Car Loan,2023-12-30,19839.49,Credit Card,Essential
+454,4,Savings,2021-06-21,3246.55,Cash,Other
+455,9,Electricity Bill,2022-07-02,9098.9,,Essential
+456,5,Rent,2024-09-04,25036.04,UPI,Essential
+457,2,Other,2021-12-17,36219.95,UPI,Other
+458,5,Water Bill,2024-11-04,40875.79,Bank Transfer,Essential
+459,5,Car Loan,2021-10-29,32619.55,Bank Transfer,Essential
+460,8,Electricity Bill,2021-09-28,37382.94,Cash,Essential
+461,8,Rent,2022-09-04,34214.6,,Essential
+462,1,Rent,2024-10-18,38961.14,Bank Transfer,Essential
+463,5,Savings,2022-05-25,40908.21,UPI,Other
+464,7,Electricity Bill,2024-05-04,17168.95,,Essential
+465,2,Car Loan,2021-03-03,19653.82,UPI,Essential
+466,4,Groceries,2023-06-14,1273.06,Bank Transfer,Essential
+467,1,School Fee,2022-12-06,8027.48,UPI,Essential
+468,8,Rent,2025-01-05,896.64,Credit Card,Essential
+469,9,Gym,2024-12-04,15841.6,UPI,Non-Essential
+470,2,Car Loan,2022-11-20,21551.04,Bank Transfer,Essential
+471,8,Electricity Bill,2024-03-12,43177.77,Bank Transfer,Essential
+472,1,Electricity Bill,2020-08-17,39709.04,Credit Card,Essential
+473,9,Groceries,2021-06-30,36561.95,Bank Transfer,Essential
+474,9,Other,2020-10-14,22895.25,UPI,Other
+475,8,Savings,2022-04-24,7042.84,Bank Transfer,Other
+476,8,Savings,2022-04-24,7042.84,Bank Transfer,Other
+477,7,Netflix Subscription,2020-04-10,19898.7,Cash,Non-Essential
+478,4,Car Loan,2023-06-28,11432.17,,Essential
+479,2,Savings,2022-06-18,17259.05,Credit Card,Other
+480,2,Income Tax,2020-07-26,48461.11,UPI,Essential
+481,9,EMI,2024-12-04,41274.56,Cash,Essential
+482,9,Savings,2023-06-07,28267.85,Cash,Other
+483,9,Savings,2023-06-07,28267.85,Cash,Other
+484,8,Car Loan,2021-10-08,45724.52,UPI,Essential
+485,9,Electricity Bill,2023-04-26,12914.32,Cash,Essential
+486,9,Electricity Bill,2023-04-26,12914.32,Cash,Essential
+487,1,Netflix Subscription,2024-02-19,5184.24,Cash,Non-Essential
+488,1,Rent,2021-06-09,35724.04,Bank Transfer,Essential
+489,6,Groceries,2024-03-06,5710.59,Bank Transfer,Essential
+490,9,Car Loan,2020-10-14,11068.03,Cash,Essential
+491,9,Car Loan,2020-10-14,11068.03,Cash,Essential
+492,4,Rent,2023-12-01,47953.94,UPI,Essential
+493,3,Gym,2020-04-28,30936.41,Bank Transfer,Non-Essential
+494,3,Car Loan,2021-10-08,33014.44,Bank Transfer,Essential
+495,9,Groceries,2023-04-30,28170.71,UPI,Essential
+496,5,Gym,2024-07-13,40934.83,UPI,Non-Essential
+497,10,Income Tax,2021-08-27,37984.34,Bank Transfer,Essential
+498,10,Savings,2020-03-22,16903.22,UPI,Other
+499,3,Electricity Bill,2020-04-20,39997.76,Cash,Essential
+500,3,Electricity Bill,2020-04-20,39997.76,Cash,Essential
+501,1,Electricity Bill,2020-11-30,27829.61,Cash,Essential
+502,7,Other,2020-07-28,47781.12,Bank Transfer,Other
+503,9,Groceries,2022-03-03,37132.87,,Essential
+504,9,Groceries,2022-03-03,37132.87,,Essential
+505,2,Car Loan,2021-12-06,18860.08,Bank Transfer,Essential
+506,7,Gym,2021-05-18,49176.46,Cash,Non-Essential
+507,8,Groceries,2022-04-28,19550.99,UPI,Essential
+508,5,Gym,2023-05-20,13530.73,Credit Card,Non-Essential
+509,5,Savings,2024-04-17,33287.67,UPI,Other
+510,7,Savings,2020-06-11,46850.1,Credit Card,Other
+511,1,EMI,2022-07-14,7012.08,Cash,Essential
+512,10,Electricity Bill,2022-08-07,14615.82,UPI,Essential
+513,3,Rent,2022-11-06,35123.44,,Essential
+514,10,School Fee,2021-06-24,3479.45,Bank Transfer,Essential
+515,7,Gym,2020-07-25,25154.01,Bank Transfer,Non-Essential
+516,1,Water Bill,2020-11-13,1971.04,Cash,Essential
+517,9,Income Tax,2023-03-15,9318.43,Cash,Essential
+518,8,School Fee,2021-08-23,47596.42,Cash,Essential
+519,1,Income Tax,2023-10-17,34456.19,,Essential
+520,5,Savings,2021-11-11,15481.86,Bank Transfer,Other
+521,2,EMI,2021-02-13,25349.92,Cash,Essential
+522,8,Groceries,2022-07-14,4481.85,Credit Card,Essential
+523,5,Income Tax,2024-12-20,37678.3,Credit Card,Essential
+524,1,Savings,2022-07-13,48136.12,,Other
+525,10,Gym,2023-01-07,32535.12,,Non-Essential
+526,8,Gym,2022-01-13,40937.39,UPI,Non-Essential
+527,1,EMI,2020-06-04,24479.8,,Essential
+528,8,Netflix Subscription,2024-08-19,15430.1,Credit Card,Non-Essential
+529,9,Rent,2024-01-31,48264.96,Bank Transfer,Essential
+530,3,Gym,2023-08-01,1757.7,Bank Transfer,Non-Essential
+531,3,Savings,2022-03-16,14765.68,Bank Transfer,Other
+532,7,Rent,2023-10-09,26567.25,Bank Transfer,Essential
+533,3,Gym,2020-04-27,41603.41,UPI,Non-Essential
+534,8,School Fee,2020-06-07,26584.24,Bank Transfer,Essential
+535,8,School Fee,2020-06-07,26584.24,Bank Transfer,Essential
+536,7,Gym,2021-07-29,18152.85,Cash,Non-Essential
+537,10,Income Tax,2020-08-16,43607.44,Bank Transfer,Essential
+538,6,Savings,2021-09-13,36227.37,,Other
+539,3,School Fee,2022-11-14,39455.18,Credit Card,Essential
+540,2,School Fee,2023-08-19,13016.58,Cash,Essential
+541,6,Groceries,2024-03-05,42851.77,UPI,Essential
+542,3,Other,2020-08-03,18001.25,UPI,Other
+543,7,Income Tax,2020-06-29,39306.62,,Essential
+544,3,Gym,2021-09-18,25982.32,UPI,Non-Essential
+545,6,Water Bill,2022-11-09,34902.78,Bank Transfer,Essential
+546,8,Income Tax,2023-04-03,27984.44,,Essential
+547,1,Netflix Subscription,2023-02-01,26613.05,Credit Card,Non-Essential
+548,1,Netflix Subscription,2023-02-01,26613.05,Credit Card,Non-Essential
+549,4,Rent,2022-06-26,5034.87,Cash,Essential
+550,4,Rent,2022-06-26,5034.87,Cash,Essential
+551,2,School Fee,2024-09-02,6421.59,UPI,Essential
+552,1,Other,2023-10-08,24021.95,,Other
+553,1,Other,2023-10-08,24021.95,,Other
+554,1,Savings,2021-06-28,22052.39,,Other
+555,4,Gym,2022-07-31,47067.8,,Non-Essential
+556,7,Groceries,2022-11-17,6428.96,Cash,Essential
+557,3,EMI,2023-04-10,23804.47,,Essential
+558,7,Groceries,2024-06-05,46258.77,Cash,Essential
+559,7,Gym,2024-10-03,25217.34,Credit Card,Non-Essential
+560,5,EMI,2023-09-17,27583.03,,Essential
+561,5,Electricity Bill,2024-03-15,30705.83,Credit Card,Essential
+562,4,EMI,2021-12-24,20576.06,UPI,Essential
+563,9,Electricity Bill,2020-06-07,25210.54,UPI,Essential
+564,10,Savings,2022-07-03,25911.61,Credit Card,Other
+565,2,Groceries,2021-03-01,17040.22,UPI,Essential
+566,9,Netflix Subscription,2024-07-10,15140.74,Cash,Non-Essential
+567,9,Netflix Subscription,2024-07-10,15140.74,Cash,Non-Essential
+568,9,Other,2024-04-11,42961.37,Cash,Other
+569,3,School Fee,2022-10-20,9956.4,Bank Transfer,Essential
+570,3,Water Bill,2020-12-04,29312.63,,Essential
+571,7,Water Bill,2023-11-10,24716.32,Credit Card,Essential
+572,7,Water Bill,2023-11-10,24716.32,Credit Card,Essential
+573,3,Netflix Subscription,2022-04-09,9905.58,,Non-Essential
+574,1,Groceries,2021-06-02,779.13,UPI,Essential
+575,1,Groceries,2021-06-02,779.13,UPI,Essential
+576,6,Income Tax,2022-08-24,38941.89,Credit Card,Essential
+577,6,Income Tax,2022-08-24,38941.89,Credit Card,Essential
+578,7,Groceries,2022-03-21,15905.14,Credit Card,Essential
+579,9,Electricity Bill,2021-08-20,12515.62,Cash,Essential
+580,9,Electricity Bill,2021-08-20,12515.62,Cash,Essential
+581,9,EMI,2024-11-16,48829.46,UPI,Essential
+582,3,Groceries,2021-10-12,46525.58,Credit Card,Essential
+583,10,Income Tax,2024-03-22,47427.36,Credit Card,Essential
+584,6,Savings,2021-02-20,32133.38,Credit Card,Other
+585,4,Water Bill,2021-11-24,8756.73,UPI,Essential
+586,4,Water Bill,2021-11-24,8756.73,UPI,Essential
+587,6,Savings,2020-10-06,13074.39,UPI,Other
+588,8,Car Loan,2023-02-11,20685.17,Bank Transfer,Essential
+589,10,Savings,2024-08-26,11294.39,Bank Transfer,Other
+590,5,Rent,2022-08-01,27704.82,Bank Transfer,Essential
+591,9,Savings,2023-08-02,26928.23,Credit Card,Other
+592,4,Income Tax,2023-06-10,16970.55,,Essential
+593,9,School Fee,2023-12-02,25354.85,Cash,Essential
+594,6,Car Loan,2021-09-10,13124.87,Credit Card,Essential
+595,1,Rent,2024-05-21,3108.81,UPI,Essential
+596,10,Other,2020-11-19,1463.94,Credit Card,Other
+597,10,Netflix Subscription,2023-12-12,12243.67,Cash,Non-Essential
+598,8,Rent,2021-08-09,46560.83,,Essential
+599,8,Electricity Bill,2023-08-04,33655.85,UPI,Essential
+600,5,School Fee,2024-10-09,36669.98,UPI,Essential
+601,3,School Fee,2022-02-03,2841.01,,Essential
+602,5,Other,2023-11-17,31635.08,Credit Card,Other
+603,5,Savings,2022-04-24,32010.81,Credit Card,Other
+604,3,Gym,2022-12-27,12959.23,UPI,Non-Essential
+605,7,Car Loan,2021-06-17,15456.12,,Essential
+606,9,Other,2021-11-10,41895.44,UPI,Other
+607,9,Electricity Bill,2021-12-29,45133.84,,Essential
+608,8,School Fee,2020-11-09,3107.9,Bank Transfer,Essential
+609,9,School Fee,2024-10-31,41360.8,Bank Transfer,Essential
+610,2,Groceries,2021-09-18,15924.74,UPI,Essential
+611,4,Electricity Bill,2022-01-14,4943.13,,Essential
+612,5,Groceries,2020-11-23,784.23,,Essential
+613,9,Income Tax,2022-11-23,40994.64,Bank Transfer,Essential
+614,1,Netflix Subscription,2021-11-04,19936.19,UPI,Non-Essential
+615,8,Rent,2021-12-30,17868.81,UPI,Essential
+616,1,EMI,2022-02-11,4820.6,Credit Card,Essential
+617,3,Gym,2023-05-27,11593.15,Cash,Non-Essential
+618,6,School Fee,2023-06-26,28928.09,Credit Card,Essential
+619,7,Electricity Bill,2020-08-20,21943.31,,Essential
+620,4,Income Tax,2024-02-11,8872.47,Bank Transfer,Essential
+621,1,School Fee,2024-01-28,9281.26,UPI,Essential
+622,7,Electricity Bill,2024-08-04,45377.45,Bank Transfer,Essential
+623,1,Electricity Bill,2021-04-13,40977.2,UPI,Essential
+624,3,Netflix Subscription,2021-10-06,28595.55,UPI,Non-Essential
+625,7,Income Tax,2025-01-17,38846.51,Cash,Essential
+626,10,Rent,2023-02-10,5725.94,,Essential
+627,9,Netflix Subscription,2021-07-05,11117.68,Bank Transfer,Non-Essential
+628,10,EMI,2021-05-09,48476.06,Credit Card,Essential
+629,3,Car Loan,2020-05-27,46538.05,Credit Card,Essential
+630,7,Rent,2025-01-15,2668.76,Credit Card,Essential
+631,5,Netflix Subscription,2023-01-02,10874.0,Cash,Non-Essential
+632,8,Car Loan,2024-11-07,35526.83,Bank Transfer,Essential
+633,2,Electricity Bill,2021-07-11,1246.61,UPI,Essential
+634,2,Electricity Bill,2021-07-11,1246.61,UPI,Essential
+635,4,Other,2021-11-16,10025.67,Cash,Other
+636,2,Rent,2020-10-30,42682.29,,Essential
+637,5,Netflix Subscription,2022-05-23,1966.64,UPI,Non-Essential
+638,9,Car Loan,2024-02-23,2546.32,Credit Card,Essential
+639,9,Car Loan,2024-02-23,2546.32,Credit Card,Essential
+640,2,Groceries,2020-12-15,10546.16,Credit Card,Essential
+641,10,School Fee,2022-05-29,2427.01,Credit Card,Essential
+642,1,Groceries,2021-11-03,9195.17,,Essential
+643,7,EMI,2022-06-26,33568.91,Credit Card,Essential
+644,10,Savings,2021-03-14,31014.21,,Other
+645,1,Car Loan,2023-11-14,7356.1,Bank Transfer,Essential
+646,6,Netflix Subscription,2023-09-21,18843.87,UPI,Non-Essential
+647,1,Income Tax,2020-11-17,39740.72,Cash,Essential
+648,3,Other,2022-03-01,12207.24,Bank Transfer,Other
+649,1,Income Tax,2023-12-09,17294.54,UPI,Essential
+650,9,School Fee,2023-01-30,10528.2,Cash,Essential
+651,4,Groceries,2021-10-05,14319.83,Credit Card,Essential
+652,10,Income Tax,2021-04-09,26340.98,,Essential
+653,4,EMI,2020-09-21,25270.99,,Essential
+654,4,EMI,2020-09-21,25270.99,,Essential
+655,3,Income Tax,2024-08-22,4186.94,Bank Transfer,Essential
+656,7,EMI,2022-05-08,7619.44,UPI,Essential
+657,7,Rent,2023-11-16,3255.6,,Essential
+658,4,Income Tax,2024-04-28,7595.12,Bank Transfer,Essential
+659,6,Car Loan,2021-10-22,36590.7,UPI,Essential
+660,6,Car Loan,2021-10-22,36590.7,UPI,Essential
+661,4,Groceries,2022-12-22,22909.89,Bank Transfer,Essential
+662,4,Groceries,2022-12-22,22909.89,Bank Transfer,Essential
+663,7,Netflix Subscription,2021-04-24,15632.4,Bank Transfer,Non-Essential
+664,8,Netflix Subscription,2022-10-16,8587.49,Bank Transfer,Non-Essential
+665,4,Savings,2023-07-07,28612.42,Bank Transfer,Other
+666,4,Savings,2023-07-07,28612.42,Bank Transfer,Other
+667,6,Gym,2024-10-14,44848.26,Bank Transfer,Non-Essential
+668,5,Savings,2023-03-06,24503.29,Credit Card,Other
+669,1,School Fee,2022-02-17,9682.08,Cash,Essential
+670,8,Electricity Bill,2020-07-20,42158.82,Credit Card,Essential
+671,1,Rent,2022-09-16,19486.94,UPI,Essential
+672,8,Gym,2022-09-28,47772.55,UPI,Non-Essential
+673,8,Gym,2022-09-28,47772.55,UPI,Non-Essential
+674,3,Savings,2021-01-27,27717.11,Credit Card,Other
+675,10,School Fee,2020-09-05,45289.14,Bank Transfer,Essential
+676,8,Gym,2022-08-05,41340.07,Credit Card,Non-Essential
+677,6,Income Tax,2020-09-27,28632.35,Bank Transfer,Essential
+678,3,Income Tax,2021-06-26,29467.74,,Essential
+679,5,Groceries,2020-11-23,26090.48,UPI,Essential
+680,7,Rent,2025-01-13,38286.5,Bank Transfer,Essential
+681,7,EMI,2023-05-20,15500.16,Credit Card,Essential
+682,9,Gym,2021-10-10,22706.49,Credit Card,Non-Essential
+683,9,Gym,2020-05-13,43991.55,UPI,Non-Essential
+684,3,Income Tax,2021-08-05,12583.23,,Essential
+685,1,Car Loan,2023-10-16,3514.31,Cash,Essential
+686,6,School Fee,2021-03-26,12697.05,UPI,Essential
+687,9,School Fee,2024-04-16,34444.8,,Essential
+688,1,Car Loan,2022-01-21,5259.94,Credit Card,Essential
+689,5,Savings,2021-04-11,42175.35,Credit Card,Other
+690,7,Netflix Subscription,2023-03-12,47956.27,Cash,Non-Essential
+691,7,Netflix Subscription,2023-03-12,47956.27,Cash,Non-Essential
+692,1,School Fee,2021-11-23,47547.91,Credit Card,Essential
+693,1,Water Bill,2021-01-28,1100.97,,Essential
+694,1,Water Bill,2021-01-28,1100.97,,Essential
+695,2,Netflix Subscription,2023-06-17,6044.49,Bank Transfer,Non-Essential
+696,1,Income Tax,2022-01-19,14449.0,UPI,Essential
+697,10,Water Bill,2024-07-23,35234.43,,Essential
+698,4,Gym,2022-07-04,45912.27,Credit Card,Non-Essential
+699,5,Water Bill,2021-09-28,4843.07,Bank Transfer,Essential
+700,4,Water Bill,2022-12-28,11171.17,UPI,Essential
+701,7,School Fee,2022-12-02,8411.26,UPI,Essential
+702,2,Rent,2024-03-16,39757.7,Cash,Essential
+703,6,Other,2024-03-08,20212.59,,Other
+704,5,Electricity Bill,2023-04-03,43360.13,,Essential
+705,2,Rent,2023-01-28,12479.81,Credit Card,Essential
+706,6,Gym,2021-07-25,11140.03,Credit Card,Non-Essential
+707,6,Car Loan,2024-04-19,13638.01,UPI,Essential
+708,9,Car Loan,2021-11-03,43846.8,Cash,Essential
+709,8,Groceries,2024-04-30,26960.89,Bank Transfer,Essential
+710,8,Electricity Bill,2020-11-07,11852.83,Bank Transfer,Essential
+711,7,Other,2021-01-20,17871.72,,Other
+712,3,Water Bill,2024-12-06,2144.52,,Essential
+713,2,EMI,2020-06-09,21419.39,Credit Card,Essential
+714,6,Savings,2021-06-20,8054.98,Credit Card,Other
+715,5,Savings,2022-12-04,22998.06,Credit Card,Other
+716,2,Rent,2021-02-10,4193.0,Credit Card,Essential
+717,1,Income Tax,2022-08-06,15151.94,Bank Transfer,Essential
+718,9,Car Loan,2023-06-21,39031.53,Credit Card,Essential
+719,9,Car Loan,2023-06-21,39031.53,Credit Card,Essential
+720,1,Water Bill,2021-05-25,48812.27,Cash,Essential
+721,7,School Fee,2022-10-25,37434.95,Bank Transfer,Essential
+722,5,Rent,2024-05-13,46903.9,UPI,Essential
+723,1,EMI,2020-06-26,19205.16,,Essential
+724,7,Rent,2021-10-10,30694.1,UPI,Essential
+725,4,Water Bill,2025-01-15,49966.77,Bank Transfer,Essential
+726,1,Netflix Subscription,2021-05-02,4435.64,Cash,Non-Essential
+727,5,Income Tax,2020-11-04,44627.95,UPI,Essential
+728,9,Gym,2020-07-04,32776.19,UPI,Non-Essential
+729,1,Savings,2021-09-30,27692.02,Bank Transfer,Other
+730,3,Rent,2021-06-13,2189.76,Credit Card,Essential
+731,10,Rent,2024-06-25,4749.93,UPI,Essential
+732,2,Rent,2022-02-22,28901.06,Bank Transfer,Essential
+733,3,Car Loan,2021-10-30,37091.46,,Essential
+734,7,Gym,2023-04-18,27024.46,Credit Card,Non-Essential
+735,9,Electricity Bill,2024-05-31,22988.38,UPI,Essential
+736,2,Other,2021-01-07,44123.26,UPI,Other
+737,9,Income Tax,2020-05-14,9639.5,UPI,Essential
+738,10,Car Loan,2022-07-04,15744.25,Bank Transfer,Essential
+739,5,EMI,2021-10-10,9198.67,,Essential
+740,10,Rent,2021-03-06,14670.95,UPI,Essential
+741,3,Rent,2024-07-23,9581.24,Credit Card,Essential
+742,8,Savings,2023-07-03,879.78,Bank Transfer,Other
+743,1,Electricity Bill,2020-09-21,42315.4,Credit Card,Essential
+744,1,Other,2024-07-20,11139.26,Credit Card,Other
+745,9,Electricity Bill,2024-04-18,36146.82,Cash,Essential
+746,1,Rent,2024-03-28,4701.24,Credit Card,Essential
+747,6,School Fee,2021-08-09,49423.4,,Essential
+748,1,Gym,2021-01-28,44510.21,,Non-Essential
+749,5,Groceries,2021-12-05,20736.93,UPI,Essential
+750,10,Rent,2021-07-16,40615.61,Bank Transfer,Essential
+751,7,Income Tax,2020-05-22,31969.43,,Essential
+752,4,Savings,2020-06-15,28366.67,,Other
+753,9,Rent,2023-10-28,20206.27,Cash,Essential
+754,1,Income Tax,2024-04-13,2684.97,Credit Card,Essential
+755,6,Electricity Bill,2023-01-18,40806.57,Credit Card,Essential
+756,3,Electricity Bill,2020-09-07,39014.57,Cash,Essential
+757,6,School Fee,2025-01-16,18270.24,,Essential
+758,9,Savings,2024-04-25,15104.88,Credit Card,Other
+759,5,Groceries,2020-09-08,27915.54,,Essential
+760,4,Gym,2022-09-16,47257.81,Cash,Non-Essential
+761,1,Rent,2020-04-04,14011.46,Bank Transfer,Essential
+762,4,Groceries,2023-11-09,666.52,Cash,Essential
+763,4,Groceries,2024-11-24,27766.66,UPI,Essential
+764,9,Income Tax,2022-12-09,13048.07,Credit Card,Essential
+765,7,Groceries,2022-05-09,36976.31,Cash,Essential
+766,6,Other,2021-07-12,10155.93,UPI,Other
+767,8,Car Loan,2020-07-12,19870.57,UPI,Essential
+768,3,Other,2020-04-23,38215.67,,Other
+769,7,Groceries,2021-02-14,24950.67,Credit Card,Essential
+770,7,Car Loan,2021-12-24,36296.88,,Essential
+771,7,Car Loan,2021-12-24,36296.88,,Essential
+772,9,EMI,2020-03-04,31083.27,UPI,Essential
+773,3,Savings,2023-05-08,1353.92,,Other
+774,9,Savings,2023-04-09,12483.64,,Other
+775,7,School Fee,2022-01-03,25944.82,UPI,Essential
+776,10,Gym,2024-12-16,29178.22,Bank Transfer,Non-Essential
+777,4,Income Tax,2022-03-17,9170.66,Credit Card,Essential
+778,4,Income Tax,2022-03-17,9170.66,Credit Card,Essential
+779,5,EMI,2023-06-03,44495.26,Cash,Essential
+780,8,Netflix Subscription,2021-11-24,7756.55,Credit Card,Non-Essential
+781,5,Savings,2022-04-13,24557.88,UPI,Other
+782,5,Savings,2022-04-13,24557.88,UPI,Other
+783,1,Gym,2020-05-05,31479.33,Credit Card,Non-Essential
+784,6,Rent,2025-01-05,24767.53,Bank Transfer,Essential
+785,2,Income Tax,2024-01-14,16826.56,UPI,Essential
+786,1,Groceries,2024-03-04,26331.72,Credit Card,Essential
+787,1,Groceries,2024-03-04,26331.72,Credit Card,Essential
+788,6,Rent,2023-04-05,20850.47,,Essential
+789,1,Water Bill,2020-03-18,49621.23,Cash,Essential
+790,9,Water Bill,2024-09-15,30639.24,UPI,Essential
+791,1,Other,2024-03-19,18128.86,Credit Card,Other
+792,10,Electricity Bill,2020-09-22,11751.75,UPI,Essential
+793,2,Netflix Subscription,2023-07-04,801.21,Bank Transfer,Non-Essential
+794,3,EMI,2022-01-04,22721.45,,Essential
+795,7,Water Bill,2021-12-12,10391.47,Bank Transfer,Essential
+796,7,Water Bill,2021-12-12,10391.47,Bank Transfer,Essential
+797,4,Netflix Subscription,2025-01-30,31408.49,Credit Card,Non-Essential
+798,9,Other,2023-03-28,13602.06,Credit Card,Other
+799,3,Other,2024-03-27,29768.42,Cash,Other
+800,7,School Fee,2023-02-15,40053.26,Credit Card,Essential
+801,1,Income Tax,2024-04-16,11209.11,Credit Card,Essential
+802,6,EMI,2023-10-31,48685.21,Cash,Essential
+803,6,Income Tax,2024-08-09,4637.21,Bank Transfer,Essential
+804,3,Car Loan,2020-07-29,44610.99,Credit Card,Essential
+805,3,Income Tax,2020-07-12,26255.29,,Essential
+806,3,Income Tax,2020-07-12,26255.29,,Essential
+807,4,Income Tax,2020-11-16,44910.09,UPI,Essential
+808,4,Income Tax,2020-11-16,44910.09,UPI,Essential
+809,4,Car Loan,2021-12-05,43017.82,Credit Card,Essential
+810,5,Income Tax,2022-01-21,40625.36,UPI,Essential
+811,7,Car Loan,2024-03-05,10565.93,UPI,Essential
+812,3,Electricity Bill,2024-04-26,37228.13,Bank Transfer,Essential
+813,7,School Fee,2021-09-12,22900.65,Credit Card,Essential
+814,3,Rent,2024-01-17,14236.42,,Essential
+815,9,Electricity Bill,2023-01-06,6327.99,Cash,Essential
+816,3,Other,2023-09-03,21965.27,Cash,Other
+817,9,Savings,2024-11-19,45976.91,Bank Transfer,Other
+818,1,Income Tax,2021-06-10,44054.52,Bank Transfer,Essential
+819,4,Savings,2022-04-26,12235.98,Cash,Other
+820,10,Electricity Bill,2022-05-12,43011.89,UPI,Essential
+821,8,Netflix Subscription,2024-03-26,34533.59,Cash,Non-Essential
+822,8,Car Loan,2023-10-04,10630.58,Cash,Essential
+823,7,Other,2020-06-08,13905.27,Cash,Other
+824,7,Other,2020-06-08,13905.27,Cash,Other
+825,8,Income Tax,2022-06-14,30542.48,UPI,Essential
+826,7,Car Loan,2022-11-20,24269.83,Credit Card,Essential
+827,7,Electricity Bill,2022-10-17,28446.87,,Essential
+828,5,Gym,2020-05-08,44186.08,Bank Transfer,Non-Essential
+829,4,Car Loan,2025-01-28,30949.21,Credit Card,Essential
+830,4,Car Loan,2025-01-28,30949.21,Credit Card,Essential
+831,4,Savings,2021-03-23,26957.49,Bank Transfer,Other
+832,10,Groceries,2022-01-01,2843.52,Credit Card,Essential
+833,10,Car Loan,2022-10-16,26825.88,UPI,Essential
+834,6,Car Loan,2024-09-19,1807.09,UPI,Essential
+835,10,EMI,2020-10-23,13711.44,Cash,Essential
+836,6,Groceries,2022-02-23,34329.42,,Essential
+837,7,Savings,2020-05-09,31862.36,Credit Card,Other
+838,2,Groceries,2024-02-17,18286.14,Bank Transfer,Essential
+839,2,Electricity Bill,2024-04-10,41671.9,Cash,Essential
+840,6,Gym,2024-10-06,11360.91,,Non-Essential
+841,1,EMI,2024-12-04,9800.8,Cash,Essential
+842,1,EMI,2024-12-04,9800.8,Cash,Essential
+843,1,Savings,2023-09-14,26506.31,,Other
+844,7,Income Tax,2021-08-11,19000.78,Cash,Essential
+845,6,Groceries,2022-01-19,18550.21,Bank Transfer,Essential
+846,3,Netflix Subscription,2023-04-24,42318.7,Credit Card,Non-Essential
+847,5,Other,2023-04-01,21997.2,,Other
+848,9,Car Loan,2022-01-12,24270.5,UPI,Essential
+849,2,Water Bill,2021-03-20,21018.03,UPI,Essential
+850,10,EMI,2022-09-25,1241.33,Cash,Essential
+851,10,EMI,2023-06-16,40095.78,Bank Transfer,Essential
+852,3,Car Loan,2024-05-10,33754.2,,Essential
+853,6,EMI,2022-08-08,33214.41,Bank Transfer,Essential
+854,8,School Fee,2020-09-18,15587.15,Bank Transfer,Essential
+855,6,Gym,2022-08-07,4752.37,,Non-Essential
+856,5,Income Tax,2023-01-22,12237.91,Cash,Essential
+857,6,Other,2024-05-17,21326.51,Credit Card,Other
+858,9,Car Loan,2023-11-06,12039.42,Cash,Essential
+859,9,Car Loan,2023-11-06,12039.42,Cash,Essential
+860,1,Other,2023-10-07,18291.89,Cash,Other
+861,5,EMI,2021-09-02,40686.16,UPI,Essential
+862,2,Savings,2023-08-14,31698.39,,Other
+863,1,School Fee,2023-07-06,32216.41,UPI,Essential
+864,4,Income Tax,2022-10-02,46724.43,UPI,Essential
+865,4,Water Bill,2022-11-28,40704.0,Cash,Essential
+866,9,School Fee,2022-08-01,5418.75,Cash,Essential
+867,8,Water Bill,2024-05-13,34677.63,Credit Card,Essential
+868,2,Income Tax,2024-07-16,13735.49,Credit Card,Essential
+869,10,Rent,2020-06-18,41756.89,UPI,Essential
+870,8,Income Tax,2021-02-07,47810.96,Bank Transfer,Essential
+871,7,School Fee,2021-05-15,34393.07,,Essential
+872,8,Rent,2021-12-30,38468.93,,Essential
+873,5,Water Bill,2024-04-29,40109.63,Cash,Essential
+874,9,Other,2021-11-21,30993.35,Bank Transfer,Other
+875,8,Car Loan,2022-01-03,16434.35,UPI,Essential
+876,10,Gym,2020-04-25,2724.59,Cash,Non-Essential
+877,5,Other,2023-01-29,37677.46,UPI,Other
+878,7,Other,2022-10-29,37518.72,UPI,Other
+879,10,Car Loan,2021-05-01,16038.48,Bank Transfer,Essential
+880,9,School Fee,2023-12-18,14267.65,Bank Transfer,Essential
+881,8,Water Bill,2022-06-11,37051.63,Cash,Essential
+882,9,Water Bill,2022-10-10,44051.05,,Essential
+883,5,Electricity Bill,2024-08-25,34822.11,Bank Transfer,Essential
+884,5,Netflix Subscription,2022-09-18,3307.18,UPI,Non-Essential
+885,2,Other,2022-08-27,9119.36,,Other
+886,10,Rent,2023-07-06,33708.61,Cash,Essential
+887,7,Netflix Subscription,2021-04-12,10913.01,Cash,Non-Essential
+888,6,Income Tax,2021-05-27,45429.83,UPI,Essential
+889,3,Netflix Subscription,2023-01-22,44753.22,Credit Card,Non-Essential
+890,2,EMI,2022-07-15,26341.41,UPI,Essential
+891,10,Car Loan,2021-01-03,9566.45,Bank Transfer,Essential
+892,7,Other,2020-11-30,10238.25,,Other
+893,3,Netflix Subscription,2023-05-04,45830.44,,Non-Essential
+894,3,Netflix Subscription,2023-05-04,45830.44,,Non-Essential
+895,4,Other,2020-07-10,42817.73,Cash,Other
+896,4,Other,2020-07-10,42817.73,Cash,Other
+897,4,Netflix Subscription,2024-05-13,19313.8,,Non-Essential
+898,2,School Fee,2023-01-11,10785.39,Cash,Essential
+899,9,School Fee,2024-10-29,38049.03,Credit Card,Essential
+900,3,EMI,2021-02-15,31272.63,Cash,Essential
+901,4,Groceries,2024-08-09,27699.08,Bank Transfer,Essential
+902,5,EMI,2020-04-24,22554.92,Credit Card,Essential
+903,4,Water Bill,2023-12-04,39563.38,Cash,Essential
+904,2,Netflix Subscription,2021-02-24,16557.76,Credit Card,Non-Essential
+905,8,Rent,2021-05-03,26255.53,Bank Transfer,Essential
+906,4,Car Loan,2022-05-18,10321.93,UPI,Essential
+907,7,Car Loan,2021-03-02,39838.78,Cash,Essential
+908,10,Savings,2021-10-15,43286.33,Bank Transfer,Other
+909,1,Car Loan,2022-04-29,7759.58,,Essential
+910,7,Other,2020-07-06,42167.21,Cash,Other
+911,2,Income Tax,2024-05-15,29130.95,UPI,Essential
+912,6,Other,2024-02-09,46277.65,,Other
+913,6,Car Loan,2021-04-23,47361.68,UPI,Essential
+914,9,Car Loan,2024-11-06,30765.02,Cash,Essential
+915,10,Car Loan,2024-09-02,6964.48,Credit Card,Essential
+916,5,Electricity Bill,2023-08-22,35977.02,,Essential
+917,1,Rent,2024-10-22,5050.31,Bank Transfer,Essential
+918,3,EMI,2021-04-14,3518.97,UPI,Essential
+919,4,School Fee,2020-03-09,7261.4,Bank Transfer,Essential
+920,9,Savings,2023-07-12,36416.92,Credit Card,Other
+921,9,Savings,2023-07-12,36416.92,Credit Card,Other
+922,4,Electricity Bill,2021-06-01,45326.73,Credit Card,Essential
+923,1,Water Bill,2020-05-05,25323.37,Bank Transfer,Essential
+924,10,EMI,2024-08-01,6990.0,Credit Card,Essential
+925,9,Water Bill,2024-07-14,22617.15,Bank Transfer,Essential
+926,8,EMI,2024-04-07,45258.36,Credit Card,Essential
+927,9,Water Bill,2024-12-08,43740.89,Cash,Essential
+928,6,Income Tax,2022-07-13,32208.22,Credit Card,Essential
+929,3,Rent,2022-06-13,17151.85,UPI,Essential
+930,5,EMI,2020-08-24,7817.36,,Essential
+931,5,Savings,2023-06-13,37894.41,,Other
+932,7,Groceries,2022-02-07,1674.52,Cash,Essential
+933,8,School Fee,2023-02-17,38148.24,UPI,Essential
+934,3,Savings,2024-08-12,44927.17,Bank Transfer,Other
+935,7,Groceries,2022-12-20,11829.67,Credit Card,Essential
+936,9,Water Bill,2021-07-09,32153.84,UPI,Essential
+937,9,Water Bill,2021-07-09,32153.84,UPI,Essential
+938,2,Electricity Bill,2024-11-13,18069.08,Bank Transfer,Essential
+939,8,School Fee,2020-10-28,41842.29,Bank Transfer,Essential
+940,8,Rent,2020-09-30,33803.17,,Essential
+941,7,Netflix Subscription,2024-08-14,29918.36,Bank Transfer,Non-Essential
+942,9,Groceries,2021-07-28,37136.88,Bank Transfer,Essential
+943,7,Rent,2021-11-26,32326.15,UPI,Essential
+944,2,Netflix Subscription,2023-07-08,13890.93,,Non-Essential
+945,7,School Fee,2024-03-21,13019.68,Cash,Essential
+946,6,Savings,2023-09-28,45401.3,,Other
+947,9,School Fee,2021-10-25,30676.19,UPI,Essential
+948,1,Gym,2025-01-28,44746.22,Credit Card,Non-Essential
+949,6,Car Loan,2025-01-28,32239.09,UPI,Essential
+950,1,Savings,2021-09-04,45797.99,Cash,Other
+951,4,Gym,2023-10-23,33634.9,UPI,Non-Essential
+952,4,Gym,2023-10-23,33634.9,UPI,Non-Essential
+953,5,Other,2022-07-07,17302.44,Credit Card,Other
+954,4,EMI,2023-09-05,8333.38,UPI,Essential
+955,8,Savings,2022-09-10,25577.06,Cash,Other
+956,8,Savings,2022-09-10,25577.06,Cash,Other
+957,8,Savings,2020-03-31,26573.18,Bank Transfer,Other
+958,8,Savings,2020-03-31,26573.18,Bank Transfer,Other
+959,7,School Fee,2022-10-02,28172.17,,Essential
+960,7,Savings,2022-02-28,24287.41,UPI,Other
+961,9,Water Bill,2023-09-06,18662.84,,Essential
+962,5,Gym,2022-10-18,46733.88,Cash,Non-Essential
+963,5,Gym,2022-10-18,46733.88,Cash,Non-Essential
+964,2,Netflix Subscription,2024-07-31,1806.65,Bank Transfer,Non-Essential
+965,7,Netflix Subscription,2021-01-25,18728.8,Credit Card,Non-Essential
+966,5,Netflix Subscription,2021-09-30,22180.64,,Non-Essential
+967,6,Netflix Subscription,2025-02-12,20232.8,Cash,Non-Essential
+968,6,Gym,2021-07-10,18587.83,Cash,Non-Essential
+969,7,Other,2023-08-28,4243.94,,Other
+970,3,Income Tax,2025-02-06,32278.04,Cash,Essential
+971,5,EMI,2025-01-07,15973.97,Cash,Essential
+972,10,Other,2023-12-24,41920.46,UPI,Other
+973,7,Savings,2023-03-03,841.39,Credit Card,Other
+974,9,Gym,2024-01-17,9945.0,Bank Transfer,Non-Essential
+975,1,EMI,2023-06-22,6879.27,,Essential
+976,1,Car Loan,2023-01-21,739.89,UPI,Essential
+977,8,Netflix Subscription,2022-12-23,34521.89,Bank Transfer,Non-Essential
+978,4,Netflix Subscription,2022-04-02,6274.96,Bank Transfer,Non-Essential
+979,7,Income Tax,2021-03-05,42237.11,UPI,Essential
+980,6,Electricity Bill,2020-12-05,28802.29,UPI,Essential
+981,6,Other,2021-07-02,13539.64,Credit Card,Other
+982,8,Car Loan,2020-09-05,2884.0,Credit Card,Essential
+983,5,Electricity Bill,2022-11-20,44225.3,Credit Card,Essential
+984,1,Electricity Bill,2024-06-20,20815.25,UPI,Essential
+985,2,Groceries,2022-01-07,26935.55,Cash,Essential
+986,3,Rent,2022-01-23,16910.05,Bank Transfer,Essential
+987,8,Car Loan,2020-07-28,34374.08,Cash,Essential
+988,1,School Fee,2020-12-20,47629.11,UPI,Essential
+989,1,School Fee,2020-12-20,47629.11,UPI,Essential
+990,1,Electricity Bill,2024-04-01,34435.16,UPI,Essential
+991,5,Income Tax,2023-06-18,43663.32,Bank Transfer,Essential
+992,7,Car Loan,2023-02-07,18328.68,Credit Card,Essential
+993,7,Car Loan,2023-02-07,18328.68,Credit Card,Essential
+994,10,Netflix Subscription,2020-09-06,34979.25,Credit Card,Non-Essential
+995,10,School Fee,2023-07-23,30736.01,UPI,Essential
+996,3,Water Bill,2022-07-28,49388.22,UPI,Essential
+997,7,Groceries,2021-03-11,44938.5,Bank Transfer,Essential
+998,5,EMI,2024-03-21,22506.79,Cash,Essential
+999,4,Netflix Subscription,2024-03-06,22067.67,UPI,Non-Essential
+1000,4,EMI,2021-01-16,5826.5,,Essential
+1001,4,Savings,2024-08-19,4667.45,Bank Transfer,Other
+1002,1,Gym,2023-05-21,21646.81,Bank Transfer,Non-Essential
+1003,5,Groceries,2021-05-04,47168.78,Cash,Essential
+1004,10,Car Loan,2023-04-02,25074.68,Bank Transfer,Essential
+1005,10,Income Tax,2023-05-01,6717.48,,Essential
+1006,6,Other,2024-10-30,36913.2,UPI,Other
+1007,6,Gym,2020-06-22,37449.87,UPI,Non-Essential
+1008,7,Rent,2024-05-10,24168.43,Credit Card,Essential
+1009,2,Water Bill,2022-11-25,2847.19,Credit Card,Essential
+1010,8,Electricity Bill,2020-06-09,49329.37,Cash,Essential
+1011,2,Gym,2025-02-21,23144.36,,Non-Essential
+1012,6,EMI,2022-03-08,38615.66,Cash,Essential
+1013,1,Rent,2024-07-06,6743.5,UPI,Essential
+1014,7,Netflix Subscription,2021-03-09,39707.15,UPI,Non-Essential
+1015,10,Income Tax,2023-04-21,39265.47,Credit Card,Essential
+1016,4,Income Tax,2021-12-09,34490.9,Credit Card,Essential
+1017,2,Water Bill,2022-10-31,11387.7,UPI,Essential
+1018,8,Electricity Bill,2024-02-20,4191.45,UPI,Essential
+1019,5,Car Loan,2025-02-04,29152.04,,Essential
+1020,2,Rent,2023-07-05,39159.26,UPI,Essential
+1021,3,Car Loan,2025-01-24,3507.16,Cash,Essential
+1022,5,Car Loan,2023-10-22,26493.93,,Essential
+1023,8,EMI,2022-02-10,39515.26,UPI,Essential
+1024,2,Rent,2021-02-28,43955.01,Credit Card,Essential
+1025,3,EMI,2022-05-14,16909.5,Cash,Essential
+1026,5,Income Tax,2021-08-15,6249.44,Credit Card,Essential
+1027,9,Rent,2024-03-27,48065.85,,Essential
+1028,8,Electricity Bill,2021-07-07,45041.04,Bank Transfer,Essential
+1029,5,Groceries,2023-02-10,9664.0,Cash,Essential
+1030,5,Groceries,2023-02-10,9664.0,Cash,Essential
+1031,10,Netflix Subscription,2024-03-18,40648.93,Credit Card,Non-Essential
+1032,7,Water Bill,2021-11-05,18232.27,,Essential
+1033,6,Gym,2020-05-22,32563.08,Cash,Non-Essential
+1034,10,Savings,2022-07-23,41386.6,,Other
+1035,10,Savings,2022-07-23,41386.6,,Other
+1036,7,EMI,2022-01-28,21175.01,Cash,Essential
+1037,2,Other,2020-04-24,25993.58,Bank Transfer,Other
+1038,1,Netflix Subscription,2021-03-06,18901.06,Bank Transfer,Non-Essential
+1039,3,Other,2020-05-28,44508.5,Cash,Other
+1040,5,Car Loan,2020-09-15,19039.08,Bank Transfer,Essential
+1041,2,Netflix Subscription,2022-12-28,23638.97,,Non-Essential
+1042,1,Rent,2024-04-28,49776.18,,Essential
+1043,5,Car Loan,2023-02-01,43188.5,,Essential
+1044,3,EMI,2020-10-22,10281.4,UPI,Essential
+1045,5,Savings,2021-07-09,29371.04,Credit Card,Other
+1046,5,Income Tax,2021-02-24,48969.27,Bank Transfer,Essential
+1047,7,Car Loan,2024-02-08,36305.55,Cash,Essential
+1048,9,School Fee,2024-03-04,15215.26,Bank Transfer,Essential
+1049,8,Car Loan,2021-12-08,33483.05,Credit Card,Essential
+1050,8,Income Tax,2021-06-04,2110.65,Credit Card,Essential
+1051,3,Electricity Bill,2022-02-05,17187.07,,Essential
+1052,8,Electricity Bill,2023-03-21,30077.29,Credit Card,Essential
+1053,9,School Fee,2023-12-06,1058.46,,Essential
+1054,6,Rent,2022-04-14,17564.62,,Essential
+1055,2,Gym,2023-04-25,21916.43,UPI,Non-Essential
+1056,8,Other,2023-01-03,49070.27,Cash,Other
+1057,4,Car Loan,2023-03-04,30992.39,UPI,Essential
+1058,6,Income Tax,2023-01-23,7623.84,Cash,Essential
+1059,2,Groceries,2023-03-27,40761.97,Credit Card,Essential
+1060,2,Water Bill,2020-08-02,15427.2,,Essential
+1061,8,Water Bill,2023-07-01,43683.24,Credit Card,Essential
+1062,8,EMI,2020-12-30,28109.44,Bank Transfer,Essential
+1063,8,EMI,2020-12-30,28109.44,Bank Transfer,Essential
+1064,2,Other,2024-06-06,18751.99,Credit Card,Other
+1065,8,Income Tax,2023-05-11,28961.8,Credit Card,Essential
+1066,4,EMI,2022-04-16,31221.8,UPI,Essential
+1067,7,Car Loan,2020-12-05,34960.88,Credit Card,Essential
+1068,1,Groceries,2021-07-30,10007.42,Bank Transfer,Essential
+1069,3,EMI,2020-07-05,7361.75,Credit Card,Essential
+1070,10,Electricity Bill,2024-03-23,28458.45,UPI,Essential
+1071,10,School Fee,2023-12-22,33128.45,Cash,Essential
+1072,7,Savings,2020-07-19,15309.91,Bank Transfer,Other
+1073,4,Gym,2020-09-02,48874.72,UPI,Non-Essential
+1074,3,Car Loan,2021-10-10,5306.1,UPI,Essential
+1075,6,Savings,2020-05-06,10884.58,Credit Card,Other
+1076,3,Car Loan,2024-09-16,24278.34,UPI,Essential
+1077,2,Savings,2020-11-30,7028.9,UPI,Other
+1078,5,Groceries,2022-01-12,4753.33,Cash,Essential
+1079,8,Gym,2021-01-31,28432.71,,Non-Essential
+1080,5,Savings,2024-06-15,20323.76,Cash,Other
+1081,1,Income Tax,2020-04-10,45876.08,Bank Transfer,Essential
+1082,1,Rent,2022-05-07,39434.33,Cash,Essential
+1083,4,Netflix Subscription,2024-04-28,1794.85,UPI,Non-Essential
+1084,4,Netflix Subscription,2024-04-28,1794.85,UPI,Non-Essential
+1085,1,Groceries,2020-07-25,6307.89,,Essential
+1086,1,Netflix Subscription,2024-01-22,4359.2,Bank Transfer,Non-Essential
+1087,2,Other,2022-01-10,38854.43,Cash,Other
+1088,2,Income Tax,2021-06-17,22611.26,Bank Transfer,Essential
+1089,9,Other,2025-01-16,45082.4,Credit Card,Other
+1090,1,Other,2020-11-21,49066.51,,Other
+1091,2,Netflix Subscription,2021-12-07,6563.76,Cash,Non-Essential
+1092,9,EMI,2021-08-21,9114.52,Cash,Essential
+1093,9,EMI,2021-08-21,9114.52,Cash,Essential
+1094,8,Gym,2020-09-01,49300.78,,Non-Essential
+1095,2,Income Tax,2021-11-19,16985.52,UPI,Essential
+1096,7,Income Tax,2022-05-29,12987.57,Credit Card,Essential
+1097,8,Savings,2025-02-01,32808.23,UPI,Other
+1098,4,Gym,2024-02-18,13999.25,Credit Card,Non-Essential
+1099,4,Gym,2024-02-18,13999.25,Credit Card,Non-Essential
+1100,9,Savings,2022-09-25,38191.54,UPI,Other
+1101,10,School Fee,2023-09-25,14795.03,UPI,Essential
